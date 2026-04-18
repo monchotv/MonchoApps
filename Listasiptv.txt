@@ -1,0 +1,7 @@
+http://6.iptv11.is:80/get.php?username=X71296Y2713T&password=ZCHmfy6z7Z&type=m3u_plus&output=m3u8
+http://cinemagold.club:80/get.php?username=r6jrh5zuhtaf&password=r6jrh5zuhtaf&type=m3u_plus
+http://cinemagold.club:80/get.php?username=IvonVallejo429&password=4LmtqyFUNJxj&type=m3u_plus
+http://wplatino.live:2095/get.php?username=cristian8427&password=nk5WzNAvXqMY&type=m3u_plus&output=ts
+http://wplatino.live:2095/get.php?username=FerminCH&password=j9UAN63yfZsV&type=m3u_plus&output=ts
+http://live.fuxxion.club:8080/get.php?username=julia2025&password=T2LUrB9gmX&type=m3u_plus
+http://ak-47scan.dyndns.tv:25461/get.php?username=DeliaS&password=yYqHn9serEPR&type=m3u_plus

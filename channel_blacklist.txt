@@ -1,0 +1,37 @@
+# Blacklist de canales - un patron por linea
+# Formatos:
+#   nombre exacto
+#   nombre *        -> empieza con "nombre"
+#   * nombre        -> termina en "nombre"
+#   * nombre *      -> contiene "nombre"
+# Comparacion case-insensitive e insensible a acentos
+
+ES : *
+Spain: *
+ES |*
+MU : *
+ESP4Ñ4 |*
+Spⓐin:*
+ESPⒶÑⒶ |*
+*| ES
+*| PE
+*| CL
+*| CR
+*| US
+*| DO
+*| BR
+*| SV
+*| PR
+*| CO
+NFL *
+NBC *
+AT&T *
+* COL
+* CHILE
+* MEX H.265
+*MX HD H.265
+* US
+* USA
+USA |*
+* USA HD
+
