@@ -7,6 +7,7 @@
 # Comparacion case-insensitive e insensible a acentos
 
 ES : *
+ES:*
 Spain: *
 ES |*
 MU : *
