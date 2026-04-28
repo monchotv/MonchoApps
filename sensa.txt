@@ -1,0 +1,561 @@
+AIRE Y NOTICIAS
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+DEPORTES
+https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
+INFANTILES
+https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+CINE Y SERIES
+https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/AMCSeries/live_dash_cld/AMCSeries.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+HBO
+https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+UNIVERSAL
+https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+VARIEDADES
+https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+DOCUMENTALES
+https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+RURAL
+https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+MUSICALES
+https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+5061291f547143b40b8abedfdff59174:fb0a1787499cbc22c2ecaf1b43dd4da7
+https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+NOVELAS
+https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+INTERNACIONALES
+https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+RELIGION
+https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+DayStar
+https://cdn.sensa.com.ar/output/SMT7/DayTVd/output.mpd
+RADIOS
+Cadena 3 Argentina
+https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+https://cdn.sensa.com.ar/output/SMT7/C3d/output.mpd
+Radio Cosquin Rock
+https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+https://cdn.sensa.com.ar/output/SMT7/CRd/output.mpd
+Radio Poluar Cordoba
+https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
+https://cdn.sensa.com.ar/output/SMT7/LPd/output.mpd
+CREA TV - Radio Voterix La Pampa
+https://cdn.sensa.com.ar/output/SMT7/VtxD/output.mpd
+FutuRock - Buenos Aires
+https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd
+Radio Comunicar - Jesus Maria y Colonia Caroya - Pcia. de Cordoba
+?
+ADULTOS (+18)
+https://cdn.sensa.com.ar/live/eds/Venus/live_dash_cld/Venus.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/Sextreme/live_dash_cld/Sextreme.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+https://cdn.sensa.com.ar/live/eds/Penthouse/live_dash_cld/Penthouse.mpd
+https://mrpw.pt.verspective.net/?deviceId=ZmNlM2RlNTctZGU3Mi00ODU3LWIyMGItZDk1MzY1ZWNiOTcz
+BOLIVIA
+https://cdn.sensa.com.ar/live/eds/BoliviaTv/live_dash_cld/BoliviaTv.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/Bolivision/live_dash_cld/Bolivision.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/BolivisSCZ/live_dash_cld/BolivisSCZ.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/BolivisCBB/live_dash_cld/BolivisCBB.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/PAT/live_dash_cld/PAT.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/UnitelLPZ/live_dash_cld/UnitelLPZ.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/UnitelSCZ/live_dash_cld/UnitelSCZ.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/UnitelCBB/live_dash_cld/UnitelCBB.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ATB/live_dash_cld/ATB.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ATBSCZ/live_dash_cld/ATBSCZ.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ATBCBB/live_dash_cld/ATBCBB.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/RedUno/live_dash_cld/RedUno.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/RedUnoSCZ/live_dash_cld/RedUnoSCZ.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/RedUnoCBB/live_dash_cld/RedUnoCBB.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/RTP/live_dash_cld/RTP.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/Gigavision/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/TVCulturas/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/CadenaA/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/TVULPZ/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/bpk-tv/XTOTV/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+https://cdn.sensa.com.ar/live/eds/ESPN-Bolivia/live_dash_cld/ESPN-Bolivia.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+LOCALES
+PCIA. DE BS.AS.
+CEPATV - Punta Alta
+https://cdn.sensa.com.ar/output/SMT2/CEPATVD/output.mpd
+Canal 7 - San Antonio de Areco
+https://cdn.sensa.com.ar/output/ARR2/C7SAAD/output.mpd
+CableCoop - Coronel Charlone
+https://cdn.sensa.com.ar/output/SMT4/CCCD/output.mpd
+NTV - Tortuguitas
+https://cdn.sensa.com.ar/output/SMT5/NTVD/output.mpd
+Telviso TV
+https://cdn.sensa.com.ar/output/SMT2/TELD/output.mpd
+CLYFER TV - Rojas
+https://cdn.sensa.com.ar/output/ARR/CLYFERD/output.mpd
+RTV Canal 2 Golcable - San Andres de Giles
+https://cdn.sensa.com.ar/output/SMT5/GolcableD/output.mpd
+CeltTV Canal 2 - Tornquist
+https://cdn.sensa.com.ar/output/SMT3/CELTTVD/output.mpd
+Canal 12 - Trenque Lauquen
+https://cdn.sensa.com.ar/output/SMT6/C12TLD/output.mpd
+Canal 2 TV Cooperativa - Pueblo San Jose
+https://cdn.sensa.com.ar/output/SMT2/PSJD/output.mpd
+Canal 4 - Pig��
+https://cdn.sensa.com.ar/output/SMT3/C4PD/output.mpd
+Bahia Vision Color - Bahia Blanca
+https://cdn.sensa.com.ar/output/SMT7/BVCd/output.mpd
+Barricada TV - CABA
+https://cdn.sensa.com.ar/output/SMT6/BTVD/output.mpd
+Marchi TV - Bat�n, Arbolito y Santa Clara del Mar
+https://cdn.sensa.com.ar/output/SMT2/MARCHITVD/output.mpd
+MC! - General Viamonte
+https://cdn.sensa.com.ar/output/SMT6/MCVD/output.mpd
+Canal 8 - Mar del Plata
+https://cdn.sensa.com.ar/output/SMT2/C8MPD/output.mpd
+Canal 10 - Mar del Plata
+https://cdn.sensa.com.ar/output/SMT6/C10MPD/output.mpd
+El Nueve TV - Bahia Blanca
+https://cdn.sensa.com.ar/output/SMT3/C9BBD/output.mpd
+PICA. DE CORDOBA
+CETV - Gneral Deheza
+https://cdn.sensa.com.ar/output/ARR/DehezaD/output.mpd
+CoopNet - Colonia Brinkmann
+https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd
+Nexos MC - Alcira Gigena
+https://cdn.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+Multimedio Cooperativo - Rio Primero
+https://cdn.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
+Luque TV - Luque
+https://cdn.sensa.com.ar/output/STAROSA/LUQUETVD/output.mpd
+COVISAR TV - Santa Rosa de Rio Primero
+https://cdn.sensa.com.ar/output/STAROSA/COVISARD/output.mpd
+Temple TV - Santiago Temple
+https://cdn.sensa.com.ar/output/STAROSA/TEMPLETVD/output.mpd
+TV Coop - Justiniano Posse
+https://cdn.sensa.com.ar/output/NDS/tvcoopjpD/output.mpd
+Canal Coop - Jesus Maria y Colonia Caroya
+https://cdn.sensa.com.ar/output/COR/CanalCoopD/output.mpd
+Canal Cooperativo - Elena
+https://cdn.sensa.com.ar/output/SMT7/C2CED/output.mpd
+Canal Cooperativo - Alcia
+https://cdn.sensa.com.ar/output/LVR/CCAD/output.mpd
+CEOSCA TV - Camilo Aldao
+https://cdn.sensa.com.ar/output/NDS/CEOSCAD/output.mpd
+Canal 20 - Villa Maria
+https://cdn.sensa.com.ar/output/SMT5/C20D/output.mpd
+STV 2 - Las Varillas
+https://cdn.sensa.com.ar/output/LVR/STV2D/output.mpd
+TV Cooperativa Regional (TCR) - Alto Alegre, Chilobroste, Cintra y San Antonio de Litin
+https://cdn.sensa.com.ar/output/LVR/TCRD/output.mpd
+Coop Plus TV - Portena
+https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd
+Vivencias TV - Monte Buey
+https://cdn.sensa.com.ar/output/NDS/vivenciasD/output.mpd
+Unidos TV - Bell Ville
+https://cdn.sensa.com.ar/output/NDS/unidostvD/output.mpd
+Canal 99 Radio Cardinal - Miramar de Ansenuza
+https://cdn.sensa.com.ar/output/ARR2/C99MD/output.mpd
+TV Coop - Hernando
+https://cdn.sensa.com.ar/output/ARR2/HERD/output.mpd
+Canal de Servicios de Monte Buey
+https://cdn.sensa.com.ar/output/NDS/RTFD/output.mpd
+El Sauce - Villa General Belgrano
+https://cdn.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd
+Coop Morteros Streaming - Morteros
+https://cdn.sensa.com.ar/output/ARR/CMSD/output.mpd
+Canal 9 CEMDO - Villa Dolores
+https://cdn.sensa.com.ar/output/SMT4/CMDD/output.mpd
+Canal 3 - Arroyito
+https://cdn.sensa.com.ar/output/ARR3/C3AD/output.mpd
+Cana Local - Rio Tercero
+https://cdn.sensa.com.ar/output/SMT3/RTD/output.mpd
+Cana Local - Freyre
+https://cdn.sensa.com.ar/output/ARR3/FRYD/output.mpd
+Canal 2 - Almafuerte
+https://cdn.sensa.com.ar/output/ARR/ALMD/output.mpd
+C50 - Morteros
+?
+Canal 10 CEGRO - General Roca
+https://cdn.sensa.com.ar/output/SMT3/GRD/output.mpd
+TV Coop - Villa Huidobro
+https://cdn.sensa.com.ar/output/SMT2/VHD/output.mpd
+Canal 11- Oliva
+https://cdn.sensa.com.ar/output/NDS/OlivaD/output.mpd
+TV Regional Unimar - Marcos Juarez
+https://cdn.sensa.com.ar/output/NDS/TRUd/output.mpd
+Teledigital - Pascanas
+?
+UniRio TV - Rio Cuarto
+https://cdn.sensa.com.ar/output/SMT6/UniRioTVd/output.mpd
+El Doce
+https://cdn.sensa.com.ar/output/Canal12D/output.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
+Canal 10
+https://cdn.sensa.com.ar/output/Canal10D/output.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
+Telefe Cordoba
+http://cdn.sensa.com.ar/output/Canal8D/output.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
+Telediario TV - Rio Cuarto
+https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd
+https://mrpw.pt.verspective.net/?deviceId=M2YxNGFjZGEtMzRlMS00MGVmLTkxMjItMDE2MTk5NDhlNDg3
+PCIA DE SANTA FE
+Canal 3 - Tacural
+https://cdn.sensa.com.ar/output/ARR2/TacuralD/output.mpd
+Fullvision - Funes
+https://cdn.sensa.com.ar/output/SMT2/FVD/output.mpd
+Canal 11 - Maria Juana
+https://cdn.sensa.com.ar/output/SMT5/MariaJuanaD/output.mpd
+Vive TV - Funes y Rosario
+https://cdn.sensa.com.ar/output/SMT4/VIVED/output.mpd
+Canal Suardi - Suardi
+https://cdn.sensa.com.ar/output/ARR3/SADD/output.mpd
+Cable Imagen Armstrong - Armstrong
+https://cdn.sensa.com.ar/output/SMT6/CIAd/output.mpd
+Ver TV - Venado Tuerto
+https://cdn.sensa.com.ar/output/ARR/VTVd/output.mpd
+Ivision TV - Villa Gobernador Galvez
+?
+El Tres - Rosario
+https://cdn.sensa.com.ar/output/ARR2/C3RD/output.mpd
+Telefe Rosario
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioD/output.mpd
+Telefe Santa Fe
+https://cdn.sensa.com.ar/output/COR/TSFD/output.mpd
+RTS Santa Fe
+https://cdn.sensa.com.ar/output/SMT6/RTSd/output.mpd
+MISIONES
+Canal 12 Misiones
+https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
+CHACO
+Somos Uno
+https://cdn.sensa.com.ar/output/SMT3/CHTVD/output.mpd
+PCIA. DE MENDOZA
+TV Cooperativa Cecsagal - General Alvear
+https://cdn.sensa.com.ar/output/SMT4/CECD/output.mpd
+Radio Uno - General Alvear
+https://cdn.sensa.com.ar/output/SMT4/R1D/output.mpd
+Radio Joven - General Alvear
+https://cdn.sensa.com.ar/output/SMT4/RJD/output.mpd
+Radio Vi�as - General Alvear
+https://cdn.sensa.com.ar/output/SMT4/RVD/output.mpd
+Radio Stylo - General Alvear
+https://cdn.sensa.com.ar/output/SMT4/RSD/output.mpd
+PCIA. DE LA PAMPA
+TVCO
+https://cdn.sensa.com.ar/output/ARR/TVCOD/output.mpd
+CPE TV
+https://cdn.sensa.com.ar/output/ARR/SRLPD/output.mpd
+LMD TV
+https://cdn.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd
+TV Publica Pampeana
+https://cdn.sensa.com.ar/output/ARR3/Canal3D/output.mpd
+PATAGONIA
+El Seis TV Bariloche
+https://cdn.sensa.com.ar/output/SMT4/BC6D/output.mpd
+Coopetel TV - El Bolson (Rio Negro)
+https://cdn.sensa.com.ar/output/SMT4/CPTD/output.mpd
+Canal 10 - Rio Negro
+https://cdn.sensa.com.ar/output/SMT2/C10RND/output.mpd
+Canal 10 - Rio Gallegos (Santa Cruz)
+https://cdn.sensa.com.ar/output/ARR/Rio_GallegosD/output.mpd 
