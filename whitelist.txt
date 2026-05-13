@@ -1,3 +1,6 @@
+"CablevisionHD"
+"TvLibrefutbol"
+"TvporinternetHD"
 "PROBANDO"
 "TVCLASICA"
 "CANALES DE ARGENTINA"
