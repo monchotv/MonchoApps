@@ -1,3 +1,4 @@
+*
 "CablevisionHD"
 "TvLibrefutbol"
 "TvporinternetHD"
