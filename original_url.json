@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "generated_from": {
-    "firebase_config_url": "https://play-28c3e-default-rtdb.firebaseio.com/configuracion_app.json",
     "channel_url": "https://app.femon.net/pirata/piratachanel.json"
   },
   "summary": {
