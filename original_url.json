@@ -6,7 +6,7 @@
   },
   "summary": {
     "categories": 33,
-    "streams": 476,
+    "streams": 652,
     "include_hidden": false
   },
   "categories": [
@@ -6027,6 +6027,1771 @@
           "source_group": "samples"
         }
       ]
+    },
+    {
+      "name": "CORDOBA",
+      "samples": [
+        {
+          "name": "Info Flow",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/-/-/0/0/59186910073646.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/SA_Live_dash_enc_C/Info_Flow.mpd",
+          "drm_license_uri": "",
+          "globalIndex": 477,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Info Mora",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/hj3hYjSv/Info-Mora.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/SA_Live_dash_enc_C/Info_Mora.mpd",
+          "drm_license_uri": "",
+          "globalIndex": 478,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal 10 Córdoba",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_CBA_HD.mpd",
+          "drm_license_uri": "kid:bYX8xwmJ0Nvo1w3XCkYpwA,k:qVMpAZL9XbW_eTaojsxodw",
+          "globalIndex": 479,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Metro",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/nzW4d2X7/Canal-Metro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd",
+          "drm_license_uri": "kid:cZqjpeJwx_aeujdO2A15hg,k:l6xZEYz0zyQuLDHofNOOHg",
+          "globalIndex": 480,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "América",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/WpH8xpLd/Normal_2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+          "drm_license_uri": "kid:jqI1zggmQIsiHEmBFam2LQ,k:eqkmbtkepFEEgzcAKd_PRQ",
+          "globalIndex": 481,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Telefe Córdoba",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/sXnmjsM4/Córdoba.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal_8_CBA.mpd",
+          "drm_license_uri": "kid:EDziFLTQTI603UNnDpVtrQ,k:IOAwV2uNxN8NHGjhavO8Dw",
+          "globalIndex": 482,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TV Pública",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/5t1Qr2mk/LEP.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+          "drm_license_uri": "kid:zIyCrC7H6XmVJ8KdtzVOgQ,k:zEquFz3S7xeuJr4_euh2Yg",
+          "globalIndex": 483,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "eldoce Córdoba",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/mk9jsWhc/Logo-1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd",
+          "drm_license_uri": "kid:kEImQNPoRhWfpFD4OHDtSg,k:q7PNlK7OGkYt8lqPIQhcyg",
+          "globalIndex": 484,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "elnueve",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/TwrJGTSJ/elnueve_2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
+          "drm_license_uri": "kid:JPT_IRE2rmUSobVSIA20BQ,k:YCEi-EJsXJQrjBjSmcxgIA",
+          "globalIndex": 485,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TN",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
+          "drm_license_uri": "kid:fOsc0GIs1-iPzcmf46Vd5g,k:lRY3CT1BxziKHvP2IM_qIQ",
+          "globalIndex": 486,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "La Nación +",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/dtnjTfgB/LN.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd",
+          "drm_license_uri": "kid:9Oree7w5slQCrPowG7rQSg,k:p00d9CNadIeDJ6qNU_8oPA",
+          "globalIndex": 487,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "C5N",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
+          "drm_license_uri": "kid:BQ31xueMd054w-me74obKQ,k:DkFB1qsho2y8Tad3qzCW1A",
+          "globalIndex": 488,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Crónica TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Ny2kSPBN/Cronica.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
+          "drm_license_uri": "kid:dF56vMkNQatwayrC9Dcdow,k:UKzZ0Z0TYctKihOoZ73DUg",
+          "globalIndex": 489,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal 26",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/800/542/0/0/34056872073.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
+          "drm_license_uri": "kid:4yqqS2dDCztRvh785adKxQ,k:rWDF4dN4qXJxv4aI8JTQkg",
+          "globalIndex": 490,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "A24",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/1XpC91Rj/Logo-1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
+          "drm_license_uri": "kid:OxsCfdARryD9mVbBbcCE-w,k:RfdarPBlk8m2k_5CfGfluA",
+          "globalIndex": 491,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Ciudad Magazine",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/mDHT4mgR/Logo-2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd",
+          "drm_license_uri": "kid:TxI1Bp00wiy3PZt4uuFVhw,k:VeBo_2sVLjTGbcY5s46Gkg",
+          "globalIndex": 492,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Net TV",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/800/542/0/0/30595173074646.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd",
+          "drm_license_uri": "kid:idQzFm7dMdVt8qWd-OxnBA,k:sgFfre0KRW0Qqo2xtMusaA",
+          "globalIndex": 493,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Encuentro",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_C/Encuentro.mpd",
+          "drm_license_uri": "kid:rDrni-tkR4qzkLStcOPgyQ,k:x9Zpdhw1FthSoO354HyRmA",
+          "globalIndex": 494,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "CNN en Español",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd",
+          "drm_license_uri": "kid:CyDtnaDlRXyd_TrgtgkkkQ,k:mJl6cCDBjLKBdKJJAUeDCg",
+          "globalIndex": 495,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Argentina 12",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/BnPRzqvb/LEP.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd",
+          "drm_license_uri": "kid:Upn5b4c6oPDkftxOFXhHFw,k:nVMXawlpSS8tk_GGe-Hc4Q",
+          "globalIndex": 496,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Bravo TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/QxSJWzvc/Bravo-TV.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_C/BravoTV.mpd",
+          "drm_license_uri": "kid:rX-77DnOpKWmOsE9lNpI1A,k:9xCHtNwhHbB5I3wPt4Prkw",
+          "globalIndex": 497,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "KZO",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/sBhMQqhX/KZO.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_C/KZO.mpd",
+          "drm_license_uri": "kid:aV0HmIEU9_7DH48nptZ8Mg,k:jk-7ls_2oxyI-BVlsZmhOg",
+          "globalIndex": 498,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Diputados TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/m2VyFnKH/Diputados.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_C/Diputados_TV.mpd",
+          "drm_license_uri": "kid:lmaxlRcUQq_UVRqN4BKRpg,k:HABh35tLCY5ANVFn6Xz78A",
+          "globalIndex": 499,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Mix TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/L5rVsDRX/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd",
+          "drm_license_uri": "kid:DhMntbH03-dnrsYiye9kzg,k:YMZKkirwEhv3MmHIJeM_GA",
+          "globalIndex": 500,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal 90 Digital",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_C/Canal_90.mpd",
+          "drm_license_uri": "kid:ylAQPzKFQh6L59qMDA56VA,k:NgjpKm_t3yKMHwNeu3ZEJg",
+          "globalIndex": 501,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "DeporTV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/XYG9JmYB/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd",
+          "drm_license_uri": "kid:82IJeBWJKkuDlQ8dEG_wsg,k:Q0nkLoHDGoOJ9KQvzSmJKA",
+          "globalIndex": 502,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TyC Sports",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/mD82Lb12/Ty_C_Sports.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+          "drm_license_uri": "kid:KyHI-poynM4xGkxKSqmWoQ,k:zCPqH7MmKfnh9IyN7q4-Ww",
+          "globalIndex": 503,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "ESPN 2",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
+          "drm_license_uri": "kid:ZaW_o8enLd5gvpsMdAbI_A,k:C0Cun3inusO1fsv3LTwIHg",
+          "globalIndex": 504,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "ESPN",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+          "drm_license_uri": "kid:6IS3EasRG-uKe6HnvL3Jvw,k:y4nuOWFZnj5kilqtYIlfNA",
+          "globalIndex": 505,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "ESPN 3",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
+          "drm_license_uri": "kid:9Mn5fio2_qsOUHfytEy8Tg,k:F0PNA9_jc2ssldqRp4OvOA",
+          "globalIndex": 506,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "ESPN 4",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
+          "drm_license_uri": "kid:zI1EQG7WvxiYrZ96LWTyng,k:-4XQWWh6sPxngFgGIE7b3w",
+          "globalIndex": 507,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "FOX Sports",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/-/-/0/0/5772683307979.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+          "drm_license_uri": "kid:y8Kgx6ON8KozM81xhB07DQ,k:qsYbcw4qwd8j8ehy51QcGw",
+          "globalIndex": 508,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "FOX Sports 2",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/-/-/0/0/68625850072785.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
+          "drm_license_uri": "kid:yY3f_EcP5EmuGo1kkhFpdg,k:UIbTcOhAAQIyz0UysW4Zfw",
+          "globalIndex": 509,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "FOX Sports 3",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/-/-/0/0/33795984072366.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
+          "drm_license_uri": "kid:VbRzkM-eSZfa5trIXgV4dQ,k:-jnoVVQ8XXDzBgDVnl5MGw",
+          "globalIndex": 510,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Garage TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/t4PkZ3n5/Logo-Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd",
+          "drm_license_uri": "kid:A9HfuN8DTYuB5XdT3wCjbQ,k:CNg2YNtKc7sdYdYLCd9fTQ",
+          "globalIndex": 511,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Golf Channel",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/xTrHB5Q3/Golf_Channel_Latin_America.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd",
+          "drm_license_uri": "kid:ONYia3zSz6hrS5zapFXn1w,k:JPDvK_eHZHzALfhwQX7tKw",
+          "globalIndex": 512,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "NBA TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/dtTvXR6v/Logo_2_Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd",
+          "drm_license_uri": "kid:0MON48mETk6fl13_s-_4rQ,k:FByg_fbrrfpxB1drjgnhFw",
+          "globalIndex": 513,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery Turbo",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/KvXqQtH8/DTurbo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd",
+          "drm_license_uri": "kid:phHdv4wV-mF6DDkct7PhKA,k:DNEwC6-IkDgP1BEkliGVxA",
+          "globalIndex": 514,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "PX Sports",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/L5JRmjMP/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd",
+          "drm_license_uri": "kid:k5MyHa7xRj_H4uBgKY24Ug,k:vmvJHheBb2fmJZa-1GPFrQ",
+          "globalIndex": 515,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "América Sports",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/fWrf82xx/Logo-2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_C/America_Sports.mpd",
+          "drm_license_uri": "kid:oKoBM3ohSL2h4hhiKVrgNw,k:_uD4egUnSXNR_FTONq0d4g",
+          "globalIndex": 516,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Flow Sports",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd",
+          "drm_license_uri": "kid:XIbiNzF8IjGsG8Ew6ZX61g,k:3Kz3sjnuA988acoR283k6w",
+          "globalIndex": 517,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Flow Sports 2",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd",
+          "drm_license_uri": "kid:5U6eqHpjRlj7ug44CqcBpw,k:TkhtJdfQ59ExdDsoWWPGQw",
+          "globalIndex": 518,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Showsport (Córdoba)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Cx34701w/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_C/Show_Sports.mpd",
+          "drm_license_uri": "kid:3z7WJFu5rxoDRjeejkdd_w,k:-G-EV0ONTkSdU7lWzBvmZA",
+          "globalIndex": 519,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "ESPN Premium",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+          "drm_license_uri": "kid:TCMNvH9qS_pq0Kpz_3kjdA,k:QYanwqFfWQqTmYhv6uxCVw",
+          "globalIndex": 520,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TNT Sports Premium",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+          "drm_license_uri": "kid:vID6PaaW5QP5QP3l9oGhxQ,k:6kbk6fETLo3XH7d_fVUFig",
+          "globalIndex": 521,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Paka Paka",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd",
+          "drm_license_uri": "kid:M0ABsvJkTfm9816S0rifjw,k:R17IfYbtBjbbttbZ1KQ7tw",
+          "globalIndex": 522,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Disney Channel",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/MpXdYn3G/Disney_Channel.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd",
+          "drm_license_uri": "kid:SnQuR40UAj4Zk-AR2UFflA,k:Dfd-3pvHRDdoNtIa-hN92g",
+          "globalIndex": 523,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Nickelodeon",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/800/542/0/0/70239189071229.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd",
+          "drm_license_uri": "kid:YcGM7-zC0Ge-qp_xgTBTRQ,k:ONb2UMv5o4_Z81wB-Y5keg",
+          "globalIndex": 524,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Cartoon Network",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/vmjDf8ZR/Texto_Blanco.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd",
+          "drm_license_uri": "kid:199W76o2pxFB0jiFTMRtHQ,k:irsu6RUNiyr46-wN4PgzyA",
+          "globalIndex": 525,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "DreamWorks",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/36735087077133.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd",
+          "drm_license_uri": "kid:fzDEPkdURBIiH9ZCAdkvSw,k:-D0J11oJRrHXGqSMIBtNiw",
+          "globalIndex": 526,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery Kids",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/WbSw-Jyxm/DKids.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery_Kids.mpd",
+          "drm_license_uri": "kid:_7Lw9jwjo1ktRlPpOLnKGQ,k:02Ya6IH8Vfx6FYFc1Dl0ew",
+          "globalIndex": 527,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Cartoonito",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/bwHN3vGc/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd",
+          "drm_license_uri": "kid:V5LmE_zraZx5y8DnX-TNNw,k:pnJ5NzBHbtI-XBvOL_Vwxg",
+          "globalIndex": 528,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Disney Jr.",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/1zqBLLZT/Disney_JR.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd",
+          "drm_license_uri": "kid:vSnEpTjyiEXOM1gREXSUKA,k:RtlYn0GhHDY3wHxgSVberA",
+          "globalIndex": 529,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Baby TV",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/800/542/0/0/2335855007695.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd",
+          "drm_license_uri": "kid:ngnwo-y5MlguDzvGphlMjQ,k:bSNjt7p2gOo79ty60e-lvw",
+          "globalIndex": 530,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Tooncast",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/FFZp5y2R/Logo-2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd",
+          "drm_license_uri": "kid:EGOKci61TGS_sOendINoag,k:QafT1SLhkhW36PYRtpAtYQ",
+          "globalIndex": 531,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Nick Jr.",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd",
+          "drm_license_uri": "kid:6CSyJ3qG_WrfxAqpSOUGSg,k:KNotu-jhoUY7uyOJW5Iggw",
+          "globalIndex": 532,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Plim Plim TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/sf96fdZR/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd",
+          "drm_license_uri": "kid:jojhVy3NKzGhACZmjWKNYQ,k:q5W9wmVa_09KjlEvtoyA3w",
+          "globalIndex": 533,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "KidOO",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Z5y6RpDq/Logo-1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd",
+          "drm_license_uri": "kid:3NiTN6UBq5KcAaA5d0CJ3A,k:6WzHvpE5qNWBs_Xuvr_BDQ",
+          "globalIndex": 534,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/hP2f012C/HBO.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
+          "drm_license_uri": "kid:UxcoP0EQ-sP7Ogvs2fZIvA,k:B1SgPJJrEkchbgHZ28-sKA",
+          "globalIndex": 535,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO 2",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/x15Z1rJQ/HBO_2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
+          "drm_license_uri": "kid:yQzFetLENuWnfbL42dsthQ,k:BPbHOYS9z_0BMFBghJeTXQ",
+          "globalIndex": 536,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO Plus",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/02GFsYkD/HBO-Plus-3.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd",
+          "drm_license_uri": "kid:8Of31FiZDt-re5i0ElZGFQ,k:eSBXVLf4SmJmHC2-neXdXQ",
+          "globalIndex": 537,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO Mundi",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/pLCSLNhH/HBO_Mundi_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
+          "drm_license_uri": "kid:eCGyZiFI_jM9UZGsu4pcHw,k:rkPz4lRSN-vaWLE4E7XTKA",
+          "globalIndex": 538,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO Pop",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/q775tmnF/HBO_POP.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd",
+          "drm_license_uri": "kid:9OHOXO9-mhEP6Wj4iBsh-g,k:a74gYrFQsRSWzdX73ZyJ1g",
+          "globalIndex": 539,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO Xtreme",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/N00zyNTS/HBO_Xtreme.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
+          "drm_license_uri": "kid:1QQBG770Z8DeOnU04wKm1A,k:M0ED4qvhb6p_mrLjCXxaWA",
+          "globalIndex": 540,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO Family",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/mrr5cdM6/HBO_Family.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
+          "drm_license_uri": "kid:U1RzEy9oCCFgtIlILKNfjg,k:6Q_ZH80_yAm-0rHA039ylw",
+          "globalIndex": 541,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HBO Signature",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Gpp5BMYN/HBO_Signature.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
+          "drm_license_uri": "kid:6GZJn7wRSfSZiWcgdao6aA,k:0t1clWI8Y0MkCYHCIC_DEQ",
+          "globalIndex": 542,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Universal Premiere",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
+          "drm_license_uri": "kid:DrILUa0TtYrUF_ETGOWIsw,k:rV0poz1z0hGHFXgC3o5glw",
+          "globalIndex": 543,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Universal Cinema",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
+          "drm_license_uri": "kid:9q4uFxcwVeTKadwYljQGrg,k:WpVcKeuIoLTJolOMxLOuog",
+          "globalIndex": 544,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Universal Comedy",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd",
+          "drm_license_uri": "kid:BixdJRBaOpNbZ-NpI8c_KA,k:iMLUzsQg8Y0kdxUsZseHDQ",
+          "globalIndex": 545,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Universal Crime",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/ZKptZDFx/Universal_Crime.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
+          "drm_license_uri": "kid:Hv1-32DhUU93XdE9BGrnCA,k:wu8au9lFxiwRsTdeqqUPDQ",
+          "globalIndex": 546,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Universal Reality",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/ZKptZDFj/Universal_Reality.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
+          "drm_license_uri": "kid:zt2cGlwq5D-A7jGXISAW1g,k:v0ejw54WSpfqatxMjdV0NQ",
+          "globalIndex": 547,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Cine.AR",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Gtxdz729/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_C/INCAA_Tv.mpd",
+          "drm_license_uri": "kid:1E9A5J0pRcGjcBwIhf8LAA,k:Y4K2J5CHQCcUtoJGiMRW3w",
+          "globalIndex": 548,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Cinemax",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/kGzB3hC6/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
+          "drm_license_uri": "kid:l3koqSuCujeBdBpkcPj0Ww,k:UfTmKCfBKPchC3mhFYdmGg",
+          "globalIndex": 549,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Volver",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd",
+          "drm_license_uri": "kid:GU5TGEpCTOaYmtgsXyj7xQ,k:ZdYMXMTeAxFyvgpqUe29_g",
+          "globalIndex": 550,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Space",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/MG8GqQQR/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_C/Space.mpd",
+          "drm_license_uri": "kid:CULk7NG9NWfo-UR_RcIKEg,k:78piZPBM9zc94MMOx5_pCQ",
+          "globalIndex": 551,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Cinecanal",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd",
+          "drm_license_uri": "kid:YAPpLdDZ9UgykBXJ4V3VeA,k:ITz4XLX5_laXVwBKd-BZSA",
+          "globalIndex": 552,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", TNT",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd",
+          "drm_license_uri": "kid:-q0XIqV19Nnse3dNtjyHnA,k:zwGEgwNEujatL_753S3Z0A",
+          "globalIndex": 553,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\",TNT Series",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd",
+          "drm_license_uri": "kid:XBTWrrGb8RPt-Rp7VEJTyw,k:jXdtb5xchA6-iNdn3XMWkg",
+          "globalIndex": 554,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", FX",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/sg7qWnn7/V2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd",
+          "drm_license_uri": "kid:mrnELHE-D7VRfcd8wZ1nVQ,k:2MJxuCOH5gm2wZ5eeSQK_w",
+          "globalIndex": 555,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Star Channel",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_C/FOXHD.mpd",
+          "drm_license_uri": "kid:gCPoXvnRdWHuG0JBebGxXg,k:R3rRifH80rrsAmBoEH-GLw",
+          "globalIndex": 556,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Sony Channel",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd",
+          "drm_license_uri": "kid:_ZYZ-dfC1RFaM5lBJ54LSw,k:v1VjXmWR-QVln6J6s8ooEg",
+          "globalIndex": 557,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Warner TV",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/800/542/0/0/14633187073787.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd",
+          "drm_license_uri": "kid:BpvT8LbCeUZ-CFSfF79b0A,k:Wvp-Nppt4Qk4GKha-RKndQ",
+          "globalIndex": 558,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Universal TV",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
+          "drm_license_uri": "kid:bPmhPW_WWg8uHO45aaq59Q,k:6mHDwa3ucbXC6XROQdS3Xw",
+          "globalIndex": 559,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", AXN",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/tgMkfpfB/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd",
+          "drm_license_uri": "kid:A-d7W79RNahdWHxa8vL3MA,k:HdGrGTinkdA_CeuIR4tIgA",
+          "globalIndex": 560,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Studio Universal",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/PrmQzBjx/Fondo_oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
+          "drm_license_uri": "kid:2bVB480GTVaYQ9pCeI1CYw,k:u6XSatUFH7Pyz3492KSn2A",
+          "globalIndex": 561,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", A&E",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd",
+          "drm_license_uri": "kid:2xIDVieks9cZi3YfNrSikA,k:gMp2GodZkqwOULCFHVVj_g",
+          "globalIndex": 562,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Europa Europa",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/800/542/0/0/8622092407184.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_C/Europa_Europa.mpd",
+          "drm_license_uri": "kid:tH8lffAxTQmn-DVcOr4dxg,k:vcnxaWqC7nOY3Tp_qCMA4g",
+          "globalIndex": 563,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", USA Network",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.mpd",
+          "drm_license_uri": "kid:x1S1IrO4fcK6LaPjUVTsFA,k:FBpR6eg4Ya6ZtLIXQxcQsw",
+          "globalIndex": 564,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", TCM",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/800/542/0/0/1820288007328.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
+          "drm_license_uri": "kid:pfRKXjBxTPO87nx_FaCLTg,k:w8FBrpQauXUDOcOvRaZc4g",
+          "globalIndex": 565,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", AMC",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd",
+          "drm_license_uri": "kid:H6aob9gLbRQl3edEgrXcnA,k:dEw2NtV6ZRq0RM-f5flbMw",
+          "globalIndex": 566,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", AMC Series",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Hcd31vF7/AMC-Series.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc_C/AMC_Series.mpd",
+          "drm_license_uri": "kid:ENPU8zprrSd6zMJojEa0Bg,k:WI_Va8qx_NtPM7XC9wGNKQ",
+          "globalIndex": 567,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", A3 Series",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/ZKk2fxtg/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd",
+          "drm_license_uri": "kid:XjTgiuWuRA8BoD5QXdJKVw,k:7TDMf1BAp11z9hkyAkknKw",
+          "globalIndex": 568,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\" ch-number=\"317\" tvg-id=\"Golden.co\" tvg-logo=\"https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png\", Golden",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
+          "drm_license_uri": "kid:t9CF29RTmvzGpVRF77KwTg,k:ClX74ET-03nRYytYkmW1cQ",
+          "globalIndex": 569,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Sony Movies",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/59061481076336.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.mpd",
+          "drm_license_uri": "kid:iLnEHnKs1bWJu_tHdpaXgQ,k:Q7lAP3qeKPwtfL8QNzuFqg",
+          "globalIndex": 570,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Eurochannel",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/rmJr3LfT/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_C/Eurochannel.mpd",
+          "drm_license_uri": "kid:bw_CFNmESnWQ8IhNVbRMQg,k:sv4btfnHkDUwHDKMHpOw7g",
+          "globalIndex": 571,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Discovery ID",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/800/542/0/0/6146615007111.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd",
+          "drm_license_uri": "kid:CVbK8uK9QfSf3OrXzJT-JA,k:ZAxJV4BzqRGThhfrTmUtbA",
+          "globalIndex": 572,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\" ch-number=\"312\" tvg-id=\"COMEDY CENTRAL.ar\" tvg-logo=\"https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png\", Comedy Central",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd",
+          "drm_license_uri": "kid:QBP3hMXvQxitRwJOYesJTg,k:utQzpUf5fH9lzaXoO43UFg",
+          "globalIndex": 573,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", A3 Cine",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/qM8YW6pp/Logo_2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd",
+          "drm_license_uri": "kid:1v-IGm8HmGqA1q1vBBtX1A,k:tAHIfCqxGhpIjuHEdLEJrg",
+          "globalIndex": 574,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", DHE",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/kXrk53s4/Logo-1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd",
+          "drm_license_uri": "kid:_4ABVvgfcMaH7Mqt7cLKFQ,k:k3uhMB4nAIs00CudijGg2w",
+          "globalIndex": 575,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\",Pasiones",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/93318670071976.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_C/Pasiones.mpd",
+          "drm_license_uri": "kid:1Bz4Jeh48NjidiGK9_W34Q,k:E9G3OrV4q4YjvpNHvPiXKg",
+          "globalIndex": 576,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Telemundo",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd",
+          "drm_license_uri": "kid:U9dS5GSdrdgI2ROYX4budw,k:0f0k2xth1jTKv8RFOM6bDg",
+          "globalIndex": 577,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", TNT Novelas",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/KY1B1VcV/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd",
+          "drm_license_uri": "kid:SaAXmwNK6JnLZ9ilg0GBqg,k:SG4sbWmt6n4X8pYOjjZmEg",
+          "globalIndex": 578,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\" ch-number=\"338\" tvg-id=\"[TLNOVEL].TLNovelas.uy\" tvg-logo=\"https://i.postimg.cc/Hcd31vF5/Tlnovelas.png\", Tlnovelas",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Hcd31vF5/Tlnovelas.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_C/Telenovelas.mpd",
+          "drm_license_uri": "kid:YMs4oFiAzQ60KfcTmGCVQA,k:wlGqx5Q8DRMkqppBKfOv1A",
+          "globalIndex": 579,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Novelas y Series\", Adult Swim",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/HWv2kQ9N/Logo-1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd",
+          "drm_license_uri": "kid:m-FDLh5ZTI0GSKRNPZ8MRg,k:jmx4WxTZc8UEB0sZIPEbFQ",
+          "globalIndex": 580,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Lifetime",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/tCYY96r9/Logo-1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
+          "drm_license_uri": "kid:6uUbHWf_R62se2vTpLESCg,k:tNa7Rxk_M__BI3nNxEdFXQ",
+          "globalIndex": 581,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "El Gourmet",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/800/542/0/0/15069203073244.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd",
+          "drm_license_uri": "kid:k9hTrEyOJM8Clfb5fuU70w,k:-lgX-rT7BUzOoau589dn7Q",
+          "globalIndex": 582,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Food Network",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/800/542/0/0/90527363073450.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_C/Food_Network.mpd",
+          "drm_license_uri": "kid:bKD7rSGg6QjAKA3MJ-buDg,k:YmcO7br9-TYLTsrtc44mzQ",
+          "globalIndex": 583,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "E! Entertainment",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/73202714073789.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd",
+          "drm_license_uri": "kid:WINVMgfxPj3Izs0RE9W6aA,k:RUNNQGNt-g5TErkyGOAhhQ",
+          "globalIndex": 584,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery H&H",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/KvX2wggG/Discovery_Home_and_Healt.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd",
+          "drm_license_uri": "kid:mwp23XoN8eG0MgrrElTRqQ,k:0BEmd3XDjW0qsJtCjAPWPw",
+          "globalIndex": 585,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery TLC",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/HnhjTpcP/TLC.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd",
+          "drm_license_uri": "kid:WHYceygZSR6zoNdlhCw0Gg,k:navEj4i9fyZnNOV1Ab1vRw",
+          "globalIndex": 586,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HGTV",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/800/542/0/0/28796844071531.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd",
+          "drm_license_uri": "kid:Q7xqh-5PIaoyC6ALmApv2A,k:vVUTBTmjD6odkLMULuvgsg",
+          "globalIndex": 587,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "¡Hola! TV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/rmKHk5Dn/Hola-TV.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd",
+          "drm_license_uri": "kid:XXWUd_CtG97yxt4J58J1_Q,k:gsxu6hhe7Mk035Wt-7-dvA",
+          "globalIndex": 588,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal Rural",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/YSphQFCM/Logo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_C/Canal_Rural.mpd",
+          "drm_license_uri": "kid:sCxWgWPBTP2k3blYoKq3Qg,k:72SnCshaZjozCL5kdmEKrQ",
+          "globalIndex": 589,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Sun Channel",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Jznc3qWB/Sun-Channel.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.mpd",
+          "drm_license_uri": "kid:FYF3aSqjRj6uX04fckA-nA,k:HGwCb7qc9-y1dse-3ODq1A",
+          "globalIndex": 590,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Telemax",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/BbwCJ6zd/Telemax.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_C/Telemax.mpd",
+          "drm_license_uri": "kid:5-w2StaFT-2teXU4y1h4DQ,k:V9-z_KLKNbN_-Bw1WV6b6A",
+          "globalIndex": 591,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Santa María",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/44zJdx6s/Santa-Maria.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.mpd",
+          "drm_license_uri": "kid:1Fb7o_zLTAag9Hdv5BJACw,k:ylUw_-QqOHWdOIfILWqQmg",
+          "globalIndex": 592,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal Orbe 21",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd",
+          "drm_license_uri": "kid:Kcyum5jXTnazWsTpp_0a8Q,k:zW8NTcoPwwUz6EX8jqapRQ",
+          "globalIndex": 593,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "EWTN",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/fLnt1Tnb/EWTN.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_C/EWTN.mpd",
+          "drm_license_uri": "kid:B988SGUqQxq3edEz8IW3mQ,k:7i--7B7N_6Vhc4P2hN_aDg",
+          "globalIndex": 594,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal Luz",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/9M5RsF5Q/Canal-Luz.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc_C/CANAL_LUZ.mpd",
+          "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
+          "globalIndex": 595,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Nat Geo",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/wjNBCV7y/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd",
+          "drm_license_uri": "kid:S-DGHO3cYilMyeI7Ynr1PQ,k:hSwZNdEcPFPQoc7_O7O_Fg",
+          "globalIndex": 596,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/800/542/0/0/24951383073066.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
+          "drm_license_uri": "kid:woPISnrw18i5thKo-yKgAQ,k:9FUQxyHuvW6qhqLhbMvXfQ",
+          "globalIndex": 597,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Animal Planet",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Sx1KbQ8q/Animal_Planet.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
+          "drm_license_uri": "kid:QUao7LsFQNyAfGOJ7ofgvA,k:DDzcGz5GF8VzYSZen6TFvQ",
+          "globalIndex": 598,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery Theater",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/bNXhW22q/Discovery_Theater.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd",
+          "drm_license_uri": "kid:UnnAXqUcTa6Of6a-iESAiQ,k:so36-6S4SN_V18F36_GRCA",
+          "globalIndex": 599,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "History",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd",
+          "drm_license_uri": "kid:6CMY5Ri6cM6j17N775nmkg,k:oF_LY0wHGlFOMDnhwnS02w",
+          "globalIndex": 600,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal (á)",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/846786600758.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.mpd",
+          "drm_license_uri": "kid:Mk7HN4d0RVSuGu8jGk-Plw,k:Z3oEBnTR0OzO8ycmmyIrrg",
+          "globalIndex": 601,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Film & Arts",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Vvs0qHB0/Fondo-Oscuro-2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd",
+          "drm_license_uri": "kid:kcVA01DzT1OG8_HHf3QAHw,k:VO5ygQVR2gy6DEWo32UZYg",
+          "globalIndex": 602,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "History 2",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/g2THwwrz/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd",
+          "drm_license_uri": "kid:7L6X7DR4QwSzkKEro4VMzw,k:Wg7jbtm4kgyxlUb9kvLUFQ",
+          "globalIndex": 603,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery World",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/J4wLvBB1/Discovery_World.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
+          "drm_license_uri": "kid:NO6UwiYzRfejpZBmEmTkkA,k:VnV9ZWpperei5eCDtdIbtQ",
+          "globalIndex": 604,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Discovery Science",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/wvp8SnWd/Discovery-Science.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd",
+          "drm_license_uri": "kid:RrpAn7BOQPuGtGbZfjqViA,k:8Sn7m10hPiDiq-UpuM8llw",
+          "globalIndex": 605,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "MTV",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/CLLYMTwk/MTV.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_C/MTV_HD.mpd",
+          "drm_license_uri": "kid:DJ6z6tOKEirEYK2WqOv9Lg,k:Zr-_pESeuLwbz3V31b_6rQ",
+          "globalIndex": 606,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Quiero Música",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/tJWc3vRN/QUIERO.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd",
+          "drm_license_uri": "kid:o1SwyCo6cgxKb1LtWhGQ9A,k:RadtzITwWM-ryLlY1zA7KA",
+          "globalIndex": 607,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Vorterix",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/ZK5jK2FZ/Vorterix.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd",
+          "drm_license_uri": "kid:6r4sIjUMJsfwrYSzSTLwjQ,k:OfoGg27A-B2N2bbgGjBw4w",
+          "globalIndex": 608,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Allegro",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/rFv7K69q/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd",
+          "drm_license_uri": "kid:5V5huBuZLWwhRmiR1yFX6Q,k:Vm00G_cgmoiXbnXCCtesog",
+          "globalIndex": 609,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "HTV",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/800/542/0/0/4926258407115.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_C/HTV.mpd",
+          "drm_license_uri": "kid:2uzvX-MvTOCDxqDGknVdag,k:1CJ_JDiam6dykyFLk-sNfQ",
+          "globalIndex": 610,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal de la Música",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/3JH12Ykm/CM.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd",
+          "drm_license_uri": "kid:aC82tXNvRWCVHKFLgNKVJA,k:Osy3KQZ6ObO4FD8bRHudJQ",
+          "globalIndex": 611,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal de la Ciudad",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/k5nvDBrT/Fondo-Oscuro.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd",
+          "drm_license_uri": "kid:XueEKzzyTR26CINl-l0FQw,k:ac7ABkCYI8BvvyhmojG09w",
+          "globalIndex": 612,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/6qp5L4FT/Somos.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_C/Somos_Norte.mpd",
+          "drm_license_uri": "kid:7opsw1_bSret7tnRZZNFnw,k:XKd0g41ciH96jX3uZLmmsA",
+          "globalIndex": 613,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos La Plata",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/T3MRT0Jp/Somos_La_Plata.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc_C/Somos_La_Plata.mpd",
+          "drm_license_uri": "kid:v_07RHqkSkKacDJFg25G-g,k:E74xwLy3ayixJIv2SrOSbg",
+          "globalIndex": 614,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos Rosario",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/JzV1Rx5t/Somos_Rosario.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc_C/Somos_Rosario.mpd",
+          "drm_license_uri": "kid:hj7X8mz1GFC57XNVRceIzg,k:eJ7fGQ14uu-1aejKCayGwg",
+          "globalIndex": 615,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos Santa Fe",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/zGZJq7FJ/Somos_Santa_Fe.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc_C/Somos_STF.mpd",
+          "drm_license_uri": "kid:E0ThjkXm5uXsCjAtdpyOUg,k:kTz-kLs68tQC6tpq1QziLQ",
+          "globalIndex": 616,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos Salta-Jujuy",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/y84V7jy1/Somos_Salta_Jujuy.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc_C/Somos_Salta.mpd",
+          "drm_license_uri": "kid:mHlUa8_YpCMc51AgYvQk-w,k:4HFpOv6j5Y-LKL9bIxHj_A",
+          "globalIndex": 617,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos MDQ-Necochea",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/x1D0953j/Somos_MDQ_Necochea.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc_C/Canal_Ciudad_MDQ.mpd",
+          "drm_license_uri": "kid:tXdjuNnCBdYJ6lCUMiAfrA,k:pHbPeRkP5IEO_dgeMjF_8w",
+          "globalIndex": 618,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Somos El Valle",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/dVPqJ6j1/Somos_El_Valle.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
+          "drm_license_uri": "kid:UT8gVr9A2RI5GP15OfvwZQ,k:B17m3Ztn2IvlZC6qUQ6Ryw",
+          "globalIndex": 619,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal C Córdoba",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/x11R476c/Canal-C-CBA.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
+          "drm_license_uri": "kid:moZsqYvvI1GmjkhDE5-Acw,k:sIkwd2U9HvhCobZdizRFWg",
+          "globalIndex": 620,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Next TV (Carlos Paz)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/g0DT51RQ/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd|Creferer=https://portal.app.flow.com.ar/",
+          "drm_license_uri": "kid:eARgkZTccUW_KXFTJ2CW0g,k:A9P049CzU2La393OEN7gDA",
+          "globalIndex": 621,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Canal U (Córdoba)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Xq73mwp8/Logo_1.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd",
+          "drm_license_uri": "kid:uT5s5rT7UbiQrFfYwLakAg,k:U-skmdjFfPb56oh8hoPFkQ",
+          "globalIndex": 622,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "UNLP.tv",
+          "type": "CLEARKEY",
+          "icono": "https://tv.unlp.edu.ar/wp-content/uploads/2026/02/cropped-Marca-UNLP-TV-sin-fondo.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd",
+          "drm_license_uri": "kid:k8QM7lil9BWCjMMtDIDTEQ,k:0AkG1x7mlRXNTcoRYtWufw",
+          "globalIndex": 623,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Rai Italia",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/x8FrCWF2/Logo-2.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_C/RAI.mpd",
+          "drm_license_uri": "kid:0hRUfX2aQBGjmomc5ucAcQ,k:FsLtBhfPHhI_OvbqiHWoLQ",
+          "globalIndex": 624,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Bloomberg",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/1RNPfcqM/Bloomberg.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_C/Bloomberg.mpd",
+          "drm_license_uri": "kid:HlCJHNxkRSquINBJcn8vPw,k:VRhxuh3GqVWX7Ay4LrOypA",
+          "globalIndex": 625,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TV Chile",
+          "type": "CLEARKEY",
+          "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/1200px-Logotipo_de_TV_Chile.svg.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd",
+          "drm_license_uri": "kid:xdDXbiSEQjWYj5JlYZ5f7A,k:RGtxpt64BsbxKeJd6ZnQfA",
+          "globalIndex": 626,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TV5 Monde",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/275173050738.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_C/TV5_Monde.mpd",
+          "drm_license_uri": "kid:YgNP9ZiLR4exfN9vdRoxQg,k:s5OPCvKLTAwIKw1CEOOJoA",
+          "globalIndex": 627,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Antena 3 Internacional",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/gwmHw85z/Antena-3-Internacional.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd",
+          "drm_license_uri": "kid:HhrUIqZxRIK2b6cCwW5Qxg,k:T98ooKuRNWylWnX06b-Mkg",
+          "globalIndex": 628,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TeleSUR",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/d0zrvjdk/Tele_Sur.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_C/Telesur.mpd",
+          "drm_license_uri": "kid:UjXY7inxTOaybqXYKK7neg,k:a_a9M54wmLq8KrC5hM0jdg",
+          "globalIndex": 629,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "CNN International",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/9MYdpqR9/CNN_International.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_C/CNN_Internacional.mpd",
+          "drm_license_uri": "kid:nyRwitEYTuOgS2UJQfmJSw,k:5bx8X_OSEZQj2_HAI6eyHA",
+          "globalIndex": 630,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "BBC News",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/NfhTZDt4/BBC_News.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_C/BBC_World_News.mpd",
+          "drm_license_uri": "kid:AZ9y8gkdTL6ln_jIWxF_hg,k:pOrFEZVQZ1L59jrSTe-cNw",
+          "globalIndex": 631,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "FOX News",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/Gh5kqR2K/FOX_News.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc_C/Fox_News.mpd",
+          "drm_license_uri": "kid:P-PzGl57SKG1SOk2R1fOZg,k:Mpk_woEgf-kV9vHpkJV4aA",
+          "globalIndex": 632,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Al Jazeera",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/ZqF4KTvr/Al-Jazeera.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc_C/Alljazzera.mpd",
+          "drm_license_uri": "kid:eqAI4AkvRHWkFFhDaKBDxA,k:o4gkY8AJ_XgpDKxsm5WMoQ",
+          "globalIndex": 633,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Euronews",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/dtqDTdH4/Euronews.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_C/Euronews.mpd",
+          "drm_license_uri": "kid:2GsPVtMvRa2wprTkiMjwwg,k:5PGAsOYb4-gKtgLfXlb_Pw",
+          "globalIndex": 634,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "DW Español",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/28pvgGY2/DW_Español.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc_C/DW.mpd",
+          "drm_license_uri": "kid:4h_BLG7hhfvJCgUrBQJr6Q,k:D5b9UpA3B6rAtChToEP_0A",
+          "globalIndex": 635,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TVE Internacional",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/sgX9PcRW/TVE.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_C/TV_Espana.mpd",
+          "drm_license_uri": "kid:U-CjdB4uT_WEPxZbUzCQiA,k:RQlcqr2aNZzX6jkQ2GXWQw",
+          "globalIndex": 636,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "TV Galicia",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/ZYyZCFdw/Galicia.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc_C/Tv_Galicia.mpd",
+          "drm_license_uri": "kid:I0GfKgohQDipTiTbE-6FqQ,k:TGJ61rh3TlSOKNSq-CqWoA",
+          "globalIndex": 637,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Las Estrellas Internacional",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_C/Canal_de_las_estrellas.mpd",
+          "drm_license_uri": "kid:s32Fvp0rS2GflFvv9xP9ow,k:kXMJyY8HKwvUhN1lYMbRZg",
+          "globalIndex": 638,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Arirang",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/htVqpSrp/Arirang.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_enc_C/Arirang.mpd",
+          "drm_license_uri": "kid:Q214p1-tm9zG1AlkDBFqYg,k:x3RxrDtpRROpxf9ouNT6xQ",
+          "globalIndex": 639,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "UCL Uruguay",
+          "type": "CLEARKEY",
+          "icono": "https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/800/542/0/0/62763250072541.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd",
+          "drm_license_uri": "kid:ICoZ5IccRzmoAQqnslrzfQ,k:BwFbTPoEijNRuD1grsperQ",
+          "globalIndex": 640,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "France 24 Francés",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/60095595073431.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc_C/France_24.mpd",
+          "drm_license_uri": "kid:chh_JlFyTbGFBc3K1DWEHQ,k:b0HgVHbjTt97udxR8I-V3w",
+          "globalIndex": 641,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "New Brasil",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/g0HJnyL4/New_Brasil.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc_C/Bandeirantes.mpd",
+          "drm_license_uri": "kid:C09W1cGbRfs-dac7bsBubA,k:xGTitt7StS4ed1OzqFmrzg",
+          "globalIndex": 642,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "DNews",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/FKVR7bkD/DNews.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc_C/DNews.mpd",
+          "drm_license_uri": "kid:IVY9gs-3_dGLIT8L2SonTw,k:WUDY0LV7nmUz6ZzA578vjg",
+          "globalIndex": 643,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "France 24 Español",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/4m5NVvh1/FR24-ES.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc_C/France24_Flow.mpd",
+          "drm_license_uri": "kid:yKPSnbOMSp-pqDjD1NaB2w,k:06o3TEwN4z9GO0OHoYKXpg",
+          "globalIndex": 644,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Flow Music",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd",
+          "drm_license_uri": "kid:sqrkSnQUS-iyEY4g0UErqw,k:inrpltEtjV1WN9EET44Itw",
+          "globalIndex": 645,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Flow Music 2",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd",
+          "drm_license_uri": "kid:80zXcJ8JPSPU2wCRB9loYg,k:2KgpE42XC0XoZ8lzOjGy8A",
+          "globalIndex": 646,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Flow Music 3",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd\t|referer=https://portal.app.flow.com.ar/",
+          "drm_license_uri": "kid:WWtZlYCzmuLzxBP36uNpAg,k:LX49XTH2hpD9h3oRH4To4w",
+          "globalIndex": 647,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Flow Music 4",
+          "type": "CLEARKEY",
+          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd\t|referer=https://portal.app.flow.com.ar/",
+          "drm_license_uri": "kid:4HixXtdw7HH4A8DsxD3gMw,k:cBC8zaVE900bQlxM69CC1A",
+          "globalIndex": 648,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Playboy TV (18+)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/tTLGm9X6/Playboy_TV.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd",
+          "drm_license_uri": "kid:hXfYHq8zQ22fHkgjYGhafA,k:9gigrHA8-q-UQldNmiuH-w",
+          "globalIndex": 649,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Venus (18+)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/fL6QgMwf/Venus.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd",
+          "drm_license_uri": "kid:NCN9KuZoTuegEfW5x8Q-bQ,k:Bdlz2YeRUSDlZ4gPUKQirw",
+          "globalIndex": 650,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Hustler Mature (18+)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd",
+          "drm_license_uri": "kid:zzfbVWvl7h7NHuHxvPOTkA,k:yy2DkPnGw5MRk5-1G6Qqsg",
+          "globalIndex": 651,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        },
+        {
+          "name": "Sextreme (18+)",
+          "type": "CLEARKEY",
+          "icono": "https://i.postimg.cc/k4kPh7nx/Sextreme.png",
+          "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd",
+          "drm_license_uri": "kid:lb1kInrPRY2veIb4A9Apjg,k:eeKO4OxYlYu2ZvnlOgzUNA",
+          "globalIndex": 652,
+          "category": "CORDOBA",
+          "source_group": "samples"
+        }
+      ]
     }
   ],
   "streams": [
@@ -11881,6 +13646,1766 @@
       "original_url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.mpd",
       "globalIndex": 476,
       "category": "CARPETA DE PRUEBAS",
+      "source_group": "samples"
+    },
+    {
+      "name": "Info Flow",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/-/-/0/0/59186910073646.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/SA_Live_dash_enc_C/Info_Flow.mpd",
+      "drm_license_uri": "",
+      "globalIndex": 477,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Info Mora",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/hj3hYjSv/Info-Mora.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/SA_Live_dash_enc_C/Info_Mora.mpd",
+      "drm_license_uri": "",
+      "globalIndex": 478,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal 10 Córdoba",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_CBA_HD.mpd",
+      "drm_license_uri": "kid:bYX8xwmJ0Nvo1w3XCkYpwA,k:qVMpAZL9XbW_eTaojsxodw",
+      "globalIndex": 479,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Metro",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/nzW4d2X7/Canal-Metro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd",
+      "drm_license_uri": "kid:cZqjpeJwx_aeujdO2A15hg,k:l6xZEYz0zyQuLDHofNOOHg",
+      "globalIndex": 480,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "América",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/WpH8xpLd/Normal_2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+      "drm_license_uri": "kid:jqI1zggmQIsiHEmBFam2LQ,k:eqkmbtkepFEEgzcAKd_PRQ",
+      "globalIndex": 481,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Telefe Córdoba",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/sXnmjsM4/Córdoba.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal_8_CBA.mpd",
+      "drm_license_uri": "kid:EDziFLTQTI603UNnDpVtrQ,k:IOAwV2uNxN8NHGjhavO8Dw",
+      "globalIndex": 482,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TV Pública",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/5t1Qr2mk/LEP.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+      "drm_license_uri": "kid:zIyCrC7H6XmVJ8KdtzVOgQ,k:zEquFz3S7xeuJr4_euh2Yg",
+      "globalIndex": 483,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "eldoce Córdoba",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/mk9jsWhc/Logo-1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd",
+      "drm_license_uri": "kid:kEImQNPoRhWfpFD4OHDtSg,k:q7PNlK7OGkYt8lqPIQhcyg",
+      "globalIndex": 484,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "elnueve",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/TwrJGTSJ/elnueve_2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
+      "drm_license_uri": "kid:JPT_IRE2rmUSobVSIA20BQ,k:YCEi-EJsXJQrjBjSmcxgIA",
+      "globalIndex": 485,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TN",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
+      "drm_license_uri": "kid:fOsc0GIs1-iPzcmf46Vd5g,k:lRY3CT1BxziKHvP2IM_qIQ",
+      "globalIndex": 486,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "La Nación +",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/dtnjTfgB/LN.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd",
+      "drm_license_uri": "kid:9Oree7w5slQCrPowG7rQSg,k:p00d9CNadIeDJ6qNU_8oPA",
+      "globalIndex": 487,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "C5N",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
+      "drm_license_uri": "kid:BQ31xueMd054w-me74obKQ,k:DkFB1qsho2y8Tad3qzCW1A",
+      "globalIndex": 488,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Crónica TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Ny2kSPBN/Cronica.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
+      "drm_license_uri": "kid:dF56vMkNQatwayrC9Dcdow,k:UKzZ0Z0TYctKihOoZ73DUg",
+      "globalIndex": 489,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal 26",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/800/542/0/0/34056872073.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
+      "drm_license_uri": "kid:4yqqS2dDCztRvh785adKxQ,k:rWDF4dN4qXJxv4aI8JTQkg",
+      "globalIndex": 490,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "A24",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/1XpC91Rj/Logo-1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
+      "drm_license_uri": "kid:OxsCfdARryD9mVbBbcCE-w,k:RfdarPBlk8m2k_5CfGfluA",
+      "globalIndex": 491,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Ciudad Magazine",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/mDHT4mgR/Logo-2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd",
+      "drm_license_uri": "kid:TxI1Bp00wiy3PZt4uuFVhw,k:VeBo_2sVLjTGbcY5s46Gkg",
+      "globalIndex": 492,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Net TV",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/800/542/0/0/30595173074646.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd",
+      "drm_license_uri": "kid:idQzFm7dMdVt8qWd-OxnBA,k:sgFfre0KRW0Qqo2xtMusaA",
+      "globalIndex": 493,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Encuentro",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_C/Encuentro.mpd",
+      "drm_license_uri": "kid:rDrni-tkR4qzkLStcOPgyQ,k:x9Zpdhw1FthSoO354HyRmA",
+      "globalIndex": 494,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "CNN en Español",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd",
+      "drm_license_uri": "kid:CyDtnaDlRXyd_TrgtgkkkQ,k:mJl6cCDBjLKBdKJJAUeDCg",
+      "globalIndex": 495,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Argentina 12",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/BnPRzqvb/LEP.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd",
+      "drm_license_uri": "kid:Upn5b4c6oPDkftxOFXhHFw,k:nVMXawlpSS8tk_GGe-Hc4Q",
+      "globalIndex": 496,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Bravo TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/QxSJWzvc/Bravo-TV.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_C/BravoTV.mpd",
+      "drm_license_uri": "kid:rX-77DnOpKWmOsE9lNpI1A,k:9xCHtNwhHbB5I3wPt4Prkw",
+      "globalIndex": 497,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "KZO",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/sBhMQqhX/KZO.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_C/KZO.mpd",
+      "drm_license_uri": "kid:aV0HmIEU9_7DH48nptZ8Mg,k:jk-7ls_2oxyI-BVlsZmhOg",
+      "globalIndex": 498,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Diputados TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/m2VyFnKH/Diputados.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_C/Diputados_TV.mpd",
+      "drm_license_uri": "kid:lmaxlRcUQq_UVRqN4BKRpg,k:HABh35tLCY5ANVFn6Xz78A",
+      "globalIndex": 499,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Mix TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/L5rVsDRX/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd",
+      "drm_license_uri": "kid:DhMntbH03-dnrsYiye9kzg,k:YMZKkirwEhv3MmHIJeM_GA",
+      "globalIndex": 500,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal 90 Digital",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_C/Canal_90.mpd",
+      "drm_license_uri": "kid:ylAQPzKFQh6L59qMDA56VA,k:NgjpKm_t3yKMHwNeu3ZEJg",
+      "globalIndex": 501,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "DeporTV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/XYG9JmYB/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd",
+      "drm_license_uri": "kid:82IJeBWJKkuDlQ8dEG_wsg,k:Q0nkLoHDGoOJ9KQvzSmJKA",
+      "globalIndex": 502,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TyC Sports",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/mD82Lb12/Ty_C_Sports.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+      "drm_license_uri": "kid:KyHI-poynM4xGkxKSqmWoQ,k:zCPqH7MmKfnh9IyN7q4-Ww",
+      "globalIndex": 503,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "ESPN 2",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
+      "drm_license_uri": "kid:ZaW_o8enLd5gvpsMdAbI_A,k:C0Cun3inusO1fsv3LTwIHg",
+      "globalIndex": 504,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "ESPN",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+      "drm_license_uri": "kid:6IS3EasRG-uKe6HnvL3Jvw,k:y4nuOWFZnj5kilqtYIlfNA",
+      "globalIndex": 505,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "ESPN 3",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
+      "drm_license_uri": "kid:9Mn5fio2_qsOUHfytEy8Tg,k:F0PNA9_jc2ssldqRp4OvOA",
+      "globalIndex": 506,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "ESPN 4",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
+      "drm_license_uri": "kid:zI1EQG7WvxiYrZ96LWTyng,k:-4XQWWh6sPxngFgGIE7b3w",
+      "globalIndex": 507,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "FOX Sports",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/-/-/0/0/5772683307979.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+      "drm_license_uri": "kid:y8Kgx6ON8KozM81xhB07DQ,k:qsYbcw4qwd8j8ehy51QcGw",
+      "globalIndex": 508,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "FOX Sports 2",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/-/-/0/0/68625850072785.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
+      "drm_license_uri": "kid:yY3f_EcP5EmuGo1kkhFpdg,k:UIbTcOhAAQIyz0UysW4Zfw",
+      "globalIndex": 509,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "FOX Sports 3",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/-/-/0/0/33795984072366.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
+      "drm_license_uri": "kid:VbRzkM-eSZfa5trIXgV4dQ,k:-jnoVVQ8XXDzBgDVnl5MGw",
+      "globalIndex": 510,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Garage TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/t4PkZ3n5/Logo-Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd",
+      "drm_license_uri": "kid:A9HfuN8DTYuB5XdT3wCjbQ,k:CNg2YNtKc7sdYdYLCd9fTQ",
+      "globalIndex": 511,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Golf Channel",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/xTrHB5Q3/Golf_Channel_Latin_America.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd",
+      "drm_license_uri": "kid:ONYia3zSz6hrS5zapFXn1w,k:JPDvK_eHZHzALfhwQX7tKw",
+      "globalIndex": 512,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "NBA TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/dtTvXR6v/Logo_2_Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd",
+      "drm_license_uri": "kid:0MON48mETk6fl13_s-_4rQ,k:FByg_fbrrfpxB1drjgnhFw",
+      "globalIndex": 513,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery Turbo",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/KvXqQtH8/DTurbo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd",
+      "drm_license_uri": "kid:phHdv4wV-mF6DDkct7PhKA,k:DNEwC6-IkDgP1BEkliGVxA",
+      "globalIndex": 514,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "PX Sports",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/L5JRmjMP/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd",
+      "drm_license_uri": "kid:k5MyHa7xRj_H4uBgKY24Ug,k:vmvJHheBb2fmJZa-1GPFrQ",
+      "globalIndex": 515,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "América Sports",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/fWrf82xx/Logo-2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_C/America_Sports.mpd",
+      "drm_license_uri": "kid:oKoBM3ohSL2h4hhiKVrgNw,k:_uD4egUnSXNR_FTONq0d4g",
+      "globalIndex": 516,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Flow Sports",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd",
+      "drm_license_uri": "kid:XIbiNzF8IjGsG8Ew6ZX61g,k:3Kz3sjnuA988acoR283k6w",
+      "globalIndex": 517,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Flow Sports 2",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd",
+      "drm_license_uri": "kid:5U6eqHpjRlj7ug44CqcBpw,k:TkhtJdfQ59ExdDsoWWPGQw",
+      "globalIndex": 518,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Showsport (Córdoba)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Cx34701w/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_C/Show_Sports.mpd",
+      "drm_license_uri": "kid:3z7WJFu5rxoDRjeejkdd_w,k:-G-EV0ONTkSdU7lWzBvmZA",
+      "globalIndex": 519,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "ESPN Premium",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+      "drm_license_uri": "kid:TCMNvH9qS_pq0Kpz_3kjdA,k:QYanwqFfWQqTmYhv6uxCVw",
+      "globalIndex": 520,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TNT Sports Premium",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+      "drm_license_uri": "kid:vID6PaaW5QP5QP3l9oGhxQ,k:6kbk6fETLo3XH7d_fVUFig",
+      "globalIndex": 521,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Paka Paka",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd",
+      "drm_license_uri": "kid:M0ABsvJkTfm9816S0rifjw,k:R17IfYbtBjbbttbZ1KQ7tw",
+      "globalIndex": 522,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Disney Channel",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/MpXdYn3G/Disney_Channel.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd",
+      "drm_license_uri": "kid:SnQuR40UAj4Zk-AR2UFflA,k:Dfd-3pvHRDdoNtIa-hN92g",
+      "globalIndex": 523,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Nickelodeon",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/800/542/0/0/70239189071229.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd",
+      "drm_license_uri": "kid:YcGM7-zC0Ge-qp_xgTBTRQ,k:ONb2UMv5o4_Z81wB-Y5keg",
+      "globalIndex": 524,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Cartoon Network",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/vmjDf8ZR/Texto_Blanco.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd",
+      "drm_license_uri": "kid:199W76o2pxFB0jiFTMRtHQ,k:irsu6RUNiyr46-wN4PgzyA",
+      "globalIndex": 525,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "DreamWorks",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/36735087077133.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd",
+      "drm_license_uri": "kid:fzDEPkdURBIiH9ZCAdkvSw,k:-D0J11oJRrHXGqSMIBtNiw",
+      "globalIndex": 526,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery Kids",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/WbSw-Jyxm/DKids.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery_Kids.mpd",
+      "drm_license_uri": "kid:_7Lw9jwjo1ktRlPpOLnKGQ,k:02Ya6IH8Vfx6FYFc1Dl0ew",
+      "globalIndex": 527,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Cartoonito",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/bwHN3vGc/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd",
+      "drm_license_uri": "kid:V5LmE_zraZx5y8DnX-TNNw,k:pnJ5NzBHbtI-XBvOL_Vwxg",
+      "globalIndex": 528,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Disney Jr.",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/1zqBLLZT/Disney_JR.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd",
+      "drm_license_uri": "kid:vSnEpTjyiEXOM1gREXSUKA,k:RtlYn0GhHDY3wHxgSVberA",
+      "globalIndex": 529,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Baby TV",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/800/542/0/0/2335855007695.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd",
+      "drm_license_uri": "kid:ngnwo-y5MlguDzvGphlMjQ,k:bSNjt7p2gOo79ty60e-lvw",
+      "globalIndex": 530,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Tooncast",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/FFZp5y2R/Logo-2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd",
+      "drm_license_uri": "kid:EGOKci61TGS_sOendINoag,k:QafT1SLhkhW36PYRtpAtYQ",
+      "globalIndex": 531,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Nick Jr.",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd",
+      "drm_license_uri": "kid:6CSyJ3qG_WrfxAqpSOUGSg,k:KNotu-jhoUY7uyOJW5Iggw",
+      "globalIndex": 532,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Plim Plim TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/sf96fdZR/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd",
+      "drm_license_uri": "kid:jojhVy3NKzGhACZmjWKNYQ,k:q5W9wmVa_09KjlEvtoyA3w",
+      "globalIndex": 533,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "KidOO",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Z5y6RpDq/Logo-1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd",
+      "drm_license_uri": "kid:3NiTN6UBq5KcAaA5d0CJ3A,k:6WzHvpE5qNWBs_Xuvr_BDQ",
+      "globalIndex": 534,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/hP2f012C/HBO.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
+      "drm_license_uri": "kid:UxcoP0EQ-sP7Ogvs2fZIvA,k:B1SgPJJrEkchbgHZ28-sKA",
+      "globalIndex": 535,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO 2",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/x15Z1rJQ/HBO_2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
+      "drm_license_uri": "kid:yQzFetLENuWnfbL42dsthQ,k:BPbHOYS9z_0BMFBghJeTXQ",
+      "globalIndex": 536,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO Plus",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/02GFsYkD/HBO-Plus-3.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd",
+      "drm_license_uri": "kid:8Of31FiZDt-re5i0ElZGFQ,k:eSBXVLf4SmJmHC2-neXdXQ",
+      "globalIndex": 537,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO Mundi",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/pLCSLNhH/HBO_Mundi_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
+      "drm_license_uri": "kid:eCGyZiFI_jM9UZGsu4pcHw,k:rkPz4lRSN-vaWLE4E7XTKA",
+      "globalIndex": 538,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO Pop",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/q775tmnF/HBO_POP.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd",
+      "drm_license_uri": "kid:9OHOXO9-mhEP6Wj4iBsh-g,k:a74gYrFQsRSWzdX73ZyJ1g",
+      "globalIndex": 539,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO Xtreme",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/N00zyNTS/HBO_Xtreme.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
+      "drm_license_uri": "kid:1QQBG770Z8DeOnU04wKm1A,k:M0ED4qvhb6p_mrLjCXxaWA",
+      "globalIndex": 540,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO Family",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/mrr5cdM6/HBO_Family.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
+      "drm_license_uri": "kid:U1RzEy9oCCFgtIlILKNfjg,k:6Q_ZH80_yAm-0rHA039ylw",
+      "globalIndex": 541,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HBO Signature",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Gpp5BMYN/HBO_Signature.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
+      "drm_license_uri": "kid:6GZJn7wRSfSZiWcgdao6aA,k:0t1clWI8Y0MkCYHCIC_DEQ",
+      "globalIndex": 542,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Universal Premiere",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
+      "drm_license_uri": "kid:DrILUa0TtYrUF_ETGOWIsw,k:rV0poz1z0hGHFXgC3o5glw",
+      "globalIndex": 543,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Universal Cinema",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
+      "drm_license_uri": "kid:9q4uFxcwVeTKadwYljQGrg,k:WpVcKeuIoLTJolOMxLOuog",
+      "globalIndex": 544,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Universal Comedy",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd",
+      "drm_license_uri": "kid:BixdJRBaOpNbZ-NpI8c_KA,k:iMLUzsQg8Y0kdxUsZseHDQ",
+      "globalIndex": 545,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Universal Crime",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/ZKptZDFx/Universal_Crime.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
+      "drm_license_uri": "kid:Hv1-32DhUU93XdE9BGrnCA,k:wu8au9lFxiwRsTdeqqUPDQ",
+      "globalIndex": 546,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Universal Reality",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/ZKptZDFj/Universal_Reality.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
+      "drm_license_uri": "kid:zt2cGlwq5D-A7jGXISAW1g,k:v0ejw54WSpfqatxMjdV0NQ",
+      "globalIndex": 547,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Cine.AR",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Gtxdz729/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_C/INCAA_Tv.mpd",
+      "drm_license_uri": "kid:1E9A5J0pRcGjcBwIhf8LAA,k:Y4K2J5CHQCcUtoJGiMRW3w",
+      "globalIndex": 548,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Cinemax",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/kGzB3hC6/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
+      "drm_license_uri": "kid:l3koqSuCujeBdBpkcPj0Ww,k:UfTmKCfBKPchC3mhFYdmGg",
+      "globalIndex": 549,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Volver",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd",
+      "drm_license_uri": "kid:GU5TGEpCTOaYmtgsXyj7xQ,k:ZdYMXMTeAxFyvgpqUe29_g",
+      "globalIndex": 550,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Space",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/MG8GqQQR/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_C/Space.mpd",
+      "drm_license_uri": "kid:CULk7NG9NWfo-UR_RcIKEg,k:78piZPBM9zc94MMOx5_pCQ",
+      "globalIndex": 551,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Cinecanal",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd",
+      "drm_license_uri": "kid:YAPpLdDZ9UgykBXJ4V3VeA,k:ITz4XLX5_laXVwBKd-BZSA",
+      "globalIndex": 552,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", TNT",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd",
+      "drm_license_uri": "kid:-q0XIqV19Nnse3dNtjyHnA,k:zwGEgwNEujatL_753S3Z0A",
+      "globalIndex": 553,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\",TNT Series",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd",
+      "drm_license_uri": "kid:XBTWrrGb8RPt-Rp7VEJTyw,k:jXdtb5xchA6-iNdn3XMWkg",
+      "globalIndex": 554,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", FX",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/sg7qWnn7/V2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd",
+      "drm_license_uri": "kid:mrnELHE-D7VRfcd8wZ1nVQ,k:2MJxuCOH5gm2wZ5eeSQK_w",
+      "globalIndex": 555,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Star Channel",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_C/FOXHD.mpd",
+      "drm_license_uri": "kid:gCPoXvnRdWHuG0JBebGxXg,k:R3rRifH80rrsAmBoEH-GLw",
+      "globalIndex": 556,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Sony Channel",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd",
+      "drm_license_uri": "kid:_ZYZ-dfC1RFaM5lBJ54LSw,k:v1VjXmWR-QVln6J6s8ooEg",
+      "globalIndex": 557,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Warner TV",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/800/542/0/0/14633187073787.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd",
+      "drm_license_uri": "kid:BpvT8LbCeUZ-CFSfF79b0A,k:Wvp-Nppt4Qk4GKha-RKndQ",
+      "globalIndex": 558,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Universal TV",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
+      "drm_license_uri": "kid:bPmhPW_WWg8uHO45aaq59Q,k:6mHDwa3ucbXC6XROQdS3Xw",
+      "globalIndex": 559,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", AXN",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/tgMkfpfB/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd",
+      "drm_license_uri": "kid:A-d7W79RNahdWHxa8vL3MA,k:HdGrGTinkdA_CeuIR4tIgA",
+      "globalIndex": 560,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Studio Universal",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/PrmQzBjx/Fondo_oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
+      "drm_license_uri": "kid:2bVB480GTVaYQ9pCeI1CYw,k:u6XSatUFH7Pyz3492KSn2A",
+      "globalIndex": 561,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", A&E",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd",
+      "drm_license_uri": "kid:2xIDVieks9cZi3YfNrSikA,k:gMp2GodZkqwOULCFHVVj_g",
+      "globalIndex": 562,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Europa Europa",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/800/542/0/0/8622092407184.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_C/Europa_Europa.mpd",
+      "drm_license_uri": "kid:tH8lffAxTQmn-DVcOr4dxg,k:vcnxaWqC7nOY3Tp_qCMA4g",
+      "globalIndex": 563,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", USA Network",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.mpd",
+      "drm_license_uri": "kid:x1S1IrO4fcK6LaPjUVTsFA,k:FBpR6eg4Ya6ZtLIXQxcQsw",
+      "globalIndex": 564,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", TCM",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/800/542/0/0/1820288007328.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
+      "drm_license_uri": "kid:pfRKXjBxTPO87nx_FaCLTg,k:w8FBrpQauXUDOcOvRaZc4g",
+      "globalIndex": 565,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", AMC",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd",
+      "drm_license_uri": "kid:H6aob9gLbRQl3edEgrXcnA,k:dEw2NtV6ZRq0RM-f5flbMw",
+      "globalIndex": 566,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", AMC Series",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Hcd31vF7/AMC-Series.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc_C/AMC_Series.mpd",
+      "drm_license_uri": "kid:ENPU8zprrSd6zMJojEa0Bg,k:WI_Va8qx_NtPM7XC9wGNKQ",
+      "globalIndex": 567,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", A3 Series",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/ZKk2fxtg/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd",
+      "drm_license_uri": "kid:XjTgiuWuRA8BoD5QXdJKVw,k:7TDMf1BAp11z9hkyAkknKw",
+      "globalIndex": 568,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\" ch-number=\"317\" tvg-id=\"Golden.co\" tvg-logo=\"https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png\", Golden",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
+      "drm_license_uri": "kid:t9CF29RTmvzGpVRF77KwTg,k:ClX74ET-03nRYytYkmW1cQ",
+      "globalIndex": 569,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Sony Movies",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/59061481076336.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.mpd",
+      "drm_license_uri": "kid:iLnEHnKs1bWJu_tHdpaXgQ,k:Q7lAP3qeKPwtfL8QNzuFqg",
+      "globalIndex": 570,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Eurochannel",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/rmJr3LfT/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_C/Eurochannel.mpd",
+      "drm_license_uri": "kid:bw_CFNmESnWQ8IhNVbRMQg,k:sv4btfnHkDUwHDKMHpOw7g",
+      "globalIndex": 571,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Discovery ID",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/800/542/0/0/6146615007111.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd",
+      "drm_license_uri": "kid:CVbK8uK9QfSf3OrXzJT-JA,k:ZAxJV4BzqRGThhfrTmUtbA",
+      "globalIndex": 572,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\" ch-number=\"312\" tvg-id=\"COMEDY CENTRAL.ar\" tvg-logo=\"https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png\", Comedy Central",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd",
+      "drm_license_uri": "kid:QBP3hMXvQxitRwJOYesJTg,k:utQzpUf5fH9lzaXoO43UFg",
+      "globalIndex": 573,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", A3 Cine",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/qM8YW6pp/Logo_2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd",
+      "drm_license_uri": "kid:1v-IGm8HmGqA1q1vBBtX1A,k:tAHIfCqxGhpIjuHEdLEJrg",
+      "globalIndex": 574,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", DHE",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/kXrk53s4/Logo-1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd",
+      "drm_license_uri": "kid:_4ABVvgfcMaH7Mqt7cLKFQ,k:k3uhMB4nAIs00CudijGg2w",
+      "globalIndex": 575,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\",Pasiones",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/93318670071976.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_C/Pasiones.mpd",
+      "drm_license_uri": "kid:1Bz4Jeh48NjidiGK9_W34Q,k:E9G3OrV4q4YjvpNHvPiXKg",
+      "globalIndex": 576,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Telemundo",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd",
+      "drm_license_uri": "kid:U9dS5GSdrdgI2ROYX4budw,k:0f0k2xth1jTKv8RFOM6bDg",
+      "globalIndex": 577,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", TNT Novelas",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/KY1B1VcV/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd",
+      "drm_license_uri": "kid:SaAXmwNK6JnLZ9ilg0GBqg,k:SG4sbWmt6n4X8pYOjjZmEg",
+      "globalIndex": 578,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\" ch-number=\"338\" tvg-id=\"[TLNOVEL].TLNovelas.uy\" tvg-logo=\"https://i.postimg.cc/Hcd31vF5/Tlnovelas.png\", Tlnovelas",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Hcd31vF5/Tlnovelas.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_C/Telenovelas.mpd",
+      "drm_license_uri": "kid:YMs4oFiAzQ60KfcTmGCVQA,k:wlGqx5Q8DRMkqppBKfOv1A",
+      "globalIndex": 579,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Novelas y Series\", Adult Swim",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/HWv2kQ9N/Logo-1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd",
+      "drm_license_uri": "kid:m-FDLh5ZTI0GSKRNPZ8MRg,k:jmx4WxTZc8UEB0sZIPEbFQ",
+      "globalIndex": 580,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Lifetime",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/tCYY96r9/Logo-1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
+      "drm_license_uri": "kid:6uUbHWf_R62se2vTpLESCg,k:tNa7Rxk_M__BI3nNxEdFXQ",
+      "globalIndex": 581,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "El Gourmet",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/800/542/0/0/15069203073244.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd",
+      "drm_license_uri": "kid:k9hTrEyOJM8Clfb5fuU70w,k:-lgX-rT7BUzOoau589dn7Q",
+      "globalIndex": 582,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Food Network",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/800/542/0/0/90527363073450.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_C/Food_Network.mpd",
+      "drm_license_uri": "kid:bKD7rSGg6QjAKA3MJ-buDg,k:YmcO7br9-TYLTsrtc44mzQ",
+      "globalIndex": 583,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "E! Entertainment",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/73202714073789.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd",
+      "drm_license_uri": "kid:WINVMgfxPj3Izs0RE9W6aA,k:RUNNQGNt-g5TErkyGOAhhQ",
+      "globalIndex": 584,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery H&H",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/KvX2wggG/Discovery_Home_and_Healt.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd",
+      "drm_license_uri": "kid:mwp23XoN8eG0MgrrElTRqQ,k:0BEmd3XDjW0qsJtCjAPWPw",
+      "globalIndex": 585,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery TLC",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/HnhjTpcP/TLC.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd",
+      "drm_license_uri": "kid:WHYceygZSR6zoNdlhCw0Gg,k:navEj4i9fyZnNOV1Ab1vRw",
+      "globalIndex": 586,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HGTV",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/800/542/0/0/28796844071531.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd",
+      "drm_license_uri": "kid:Q7xqh-5PIaoyC6ALmApv2A,k:vVUTBTmjD6odkLMULuvgsg",
+      "globalIndex": 587,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "¡Hola! TV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/rmKHk5Dn/Hola-TV.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd",
+      "drm_license_uri": "kid:XXWUd_CtG97yxt4J58J1_Q,k:gsxu6hhe7Mk035Wt-7-dvA",
+      "globalIndex": 588,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal Rural",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/YSphQFCM/Logo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_C/Canal_Rural.mpd",
+      "drm_license_uri": "kid:sCxWgWPBTP2k3blYoKq3Qg,k:72SnCshaZjozCL5kdmEKrQ",
+      "globalIndex": 589,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Sun Channel",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Jznc3qWB/Sun-Channel.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.mpd",
+      "drm_license_uri": "kid:FYF3aSqjRj6uX04fckA-nA,k:HGwCb7qc9-y1dse-3ODq1A",
+      "globalIndex": 590,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Telemax",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/BbwCJ6zd/Telemax.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_C/Telemax.mpd",
+      "drm_license_uri": "kid:5-w2StaFT-2teXU4y1h4DQ,k:V9-z_KLKNbN_-Bw1WV6b6A",
+      "globalIndex": 591,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Santa María",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/44zJdx6s/Santa-Maria.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.mpd",
+      "drm_license_uri": "kid:1Fb7o_zLTAag9Hdv5BJACw,k:ylUw_-QqOHWdOIfILWqQmg",
+      "globalIndex": 592,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal Orbe 21",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd",
+      "drm_license_uri": "kid:Kcyum5jXTnazWsTpp_0a8Q,k:zW8NTcoPwwUz6EX8jqapRQ",
+      "globalIndex": 593,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "EWTN",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/fLnt1Tnb/EWTN.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_C/EWTN.mpd",
+      "drm_license_uri": "kid:B988SGUqQxq3edEz8IW3mQ,k:7i--7B7N_6Vhc4P2hN_aDg",
+      "globalIndex": 594,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal Luz",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/9M5RsF5Q/Canal-Luz.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc_C/CANAL_LUZ.mpd",
+      "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
+      "globalIndex": 595,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Nat Geo",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/wjNBCV7y/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd",
+      "drm_license_uri": "kid:S-DGHO3cYilMyeI7Ynr1PQ,k:hSwZNdEcPFPQoc7_O7O_Fg",
+      "globalIndex": 596,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/800/542/0/0/24951383073066.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
+      "drm_license_uri": "kid:woPISnrw18i5thKo-yKgAQ,k:9FUQxyHuvW6qhqLhbMvXfQ",
+      "globalIndex": 597,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Animal Planet",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Sx1KbQ8q/Animal_Planet.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
+      "drm_license_uri": "kid:QUao7LsFQNyAfGOJ7ofgvA,k:DDzcGz5GF8VzYSZen6TFvQ",
+      "globalIndex": 598,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery Theater",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/bNXhW22q/Discovery_Theater.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd",
+      "drm_license_uri": "kid:UnnAXqUcTa6Of6a-iESAiQ,k:so36-6S4SN_V18F36_GRCA",
+      "globalIndex": 599,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "History",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd",
+      "drm_license_uri": "kid:6CMY5Ri6cM6j17N775nmkg,k:oF_LY0wHGlFOMDnhwnS02w",
+      "globalIndex": 600,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal (á)",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/846786600758.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.mpd",
+      "drm_license_uri": "kid:Mk7HN4d0RVSuGu8jGk-Plw,k:Z3oEBnTR0OzO8ycmmyIrrg",
+      "globalIndex": 601,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Film & Arts",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Vvs0qHB0/Fondo-Oscuro-2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd",
+      "drm_license_uri": "kid:kcVA01DzT1OG8_HHf3QAHw,k:VO5ygQVR2gy6DEWo32UZYg",
+      "globalIndex": 602,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "History 2",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/g2THwwrz/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd",
+      "drm_license_uri": "kid:7L6X7DR4QwSzkKEro4VMzw,k:Wg7jbtm4kgyxlUb9kvLUFQ",
+      "globalIndex": 603,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery World",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/J4wLvBB1/Discovery_World.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
+      "drm_license_uri": "kid:NO6UwiYzRfejpZBmEmTkkA,k:VnV9ZWpperei5eCDtdIbtQ",
+      "globalIndex": 604,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Discovery Science",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/wvp8SnWd/Discovery-Science.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd",
+      "drm_license_uri": "kid:RrpAn7BOQPuGtGbZfjqViA,k:8Sn7m10hPiDiq-UpuM8llw",
+      "globalIndex": 605,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "MTV",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/CLLYMTwk/MTV.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_C/MTV_HD.mpd",
+      "drm_license_uri": "kid:DJ6z6tOKEirEYK2WqOv9Lg,k:Zr-_pESeuLwbz3V31b_6rQ",
+      "globalIndex": 606,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Quiero Música",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/tJWc3vRN/QUIERO.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd",
+      "drm_license_uri": "kid:o1SwyCo6cgxKb1LtWhGQ9A,k:RadtzITwWM-ryLlY1zA7KA",
+      "globalIndex": 607,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Vorterix",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/ZK5jK2FZ/Vorterix.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd",
+      "drm_license_uri": "kid:6r4sIjUMJsfwrYSzSTLwjQ,k:OfoGg27A-B2N2bbgGjBw4w",
+      "globalIndex": 608,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Allegro",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/rFv7K69q/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd",
+      "drm_license_uri": "kid:5V5huBuZLWwhRmiR1yFX6Q,k:Vm00G_cgmoiXbnXCCtesog",
+      "globalIndex": 609,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "HTV",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/800/542/0/0/4926258407115.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_C/HTV.mpd",
+      "drm_license_uri": "kid:2uzvX-MvTOCDxqDGknVdag,k:1CJ_JDiam6dykyFLk-sNfQ",
+      "globalIndex": 610,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal de la Música",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/3JH12Ykm/CM.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd",
+      "drm_license_uri": "kid:aC82tXNvRWCVHKFLgNKVJA,k:Osy3KQZ6ObO4FD8bRHudJQ",
+      "globalIndex": 611,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal de la Ciudad",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/k5nvDBrT/Fondo-Oscuro.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd",
+      "drm_license_uri": "kid:XueEKzzyTR26CINl-l0FQw,k:ac7ABkCYI8BvvyhmojG09w",
+      "globalIndex": 612,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/6qp5L4FT/Somos.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_C/Somos_Norte.mpd",
+      "drm_license_uri": "kid:7opsw1_bSret7tnRZZNFnw,k:XKd0g41ciH96jX3uZLmmsA",
+      "globalIndex": 613,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos La Plata",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/T3MRT0Jp/Somos_La_Plata.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc_C/Somos_La_Plata.mpd",
+      "drm_license_uri": "kid:v_07RHqkSkKacDJFg25G-g,k:E74xwLy3ayixJIv2SrOSbg",
+      "globalIndex": 614,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos Rosario",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/JzV1Rx5t/Somos_Rosario.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc_C/Somos_Rosario.mpd",
+      "drm_license_uri": "kid:hj7X8mz1GFC57XNVRceIzg,k:eJ7fGQ14uu-1aejKCayGwg",
+      "globalIndex": 615,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos Santa Fe",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/zGZJq7FJ/Somos_Santa_Fe.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc_C/Somos_STF.mpd",
+      "drm_license_uri": "kid:E0ThjkXm5uXsCjAtdpyOUg,k:kTz-kLs68tQC6tpq1QziLQ",
+      "globalIndex": 616,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos Salta-Jujuy",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/y84V7jy1/Somos_Salta_Jujuy.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc_C/Somos_Salta.mpd",
+      "drm_license_uri": "kid:mHlUa8_YpCMc51AgYvQk-w,k:4HFpOv6j5Y-LKL9bIxHj_A",
+      "globalIndex": 617,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos MDQ-Necochea",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/x1D0953j/Somos_MDQ_Necochea.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc_C/Canal_Ciudad_MDQ.mpd",
+      "drm_license_uri": "kid:tXdjuNnCBdYJ6lCUMiAfrA,k:pHbPeRkP5IEO_dgeMjF_8w",
+      "globalIndex": 618,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Somos El Valle",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/dVPqJ6j1/Somos_El_Valle.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
+      "drm_license_uri": "kid:UT8gVr9A2RI5GP15OfvwZQ,k:B17m3Ztn2IvlZC6qUQ6Ryw",
+      "globalIndex": 619,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal C Córdoba",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/x11R476c/Canal-C-CBA.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
+      "drm_license_uri": "kid:moZsqYvvI1GmjkhDE5-Acw,k:sIkwd2U9HvhCobZdizRFWg",
+      "globalIndex": 620,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Next TV (Carlos Paz)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/g0DT51RQ/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd|Creferer=https://portal.app.flow.com.ar/",
+      "drm_license_uri": "kid:eARgkZTccUW_KXFTJ2CW0g,k:A9P049CzU2La393OEN7gDA",
+      "globalIndex": 621,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Canal U (Córdoba)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Xq73mwp8/Logo_1.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd",
+      "drm_license_uri": "kid:uT5s5rT7UbiQrFfYwLakAg,k:U-skmdjFfPb56oh8hoPFkQ",
+      "globalIndex": 622,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "UNLP.tv",
+      "type": "CLEARKEY",
+      "icono": "https://tv.unlp.edu.ar/wp-content/uploads/2026/02/cropped-Marca-UNLP-TV-sin-fondo.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd",
+      "drm_license_uri": "kid:k8QM7lil9BWCjMMtDIDTEQ,k:0AkG1x7mlRXNTcoRYtWufw",
+      "globalIndex": 623,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Rai Italia",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/x8FrCWF2/Logo-2.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_C/RAI.mpd",
+      "drm_license_uri": "kid:0hRUfX2aQBGjmomc5ucAcQ,k:FsLtBhfPHhI_OvbqiHWoLQ",
+      "globalIndex": 624,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Bloomberg",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/1RNPfcqM/Bloomberg.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_C/Bloomberg.mpd",
+      "drm_license_uri": "kid:HlCJHNxkRSquINBJcn8vPw,k:VRhxuh3GqVWX7Ay4LrOypA",
+      "globalIndex": 625,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TV Chile",
+      "type": "CLEARKEY",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/1200px-Logotipo_de_TV_Chile.svg.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd",
+      "drm_license_uri": "kid:xdDXbiSEQjWYj5JlYZ5f7A,k:RGtxpt64BsbxKeJd6ZnQfA",
+      "globalIndex": 626,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TV5 Monde",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/275173050738.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_C/TV5_Monde.mpd",
+      "drm_license_uri": "kid:YgNP9ZiLR4exfN9vdRoxQg,k:s5OPCvKLTAwIKw1CEOOJoA",
+      "globalIndex": 627,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Antena 3 Internacional",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/gwmHw85z/Antena-3-Internacional.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd",
+      "drm_license_uri": "kid:HhrUIqZxRIK2b6cCwW5Qxg,k:T98ooKuRNWylWnX06b-Mkg",
+      "globalIndex": 628,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TeleSUR",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/d0zrvjdk/Tele_Sur.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_C/Telesur.mpd",
+      "drm_license_uri": "kid:UjXY7inxTOaybqXYKK7neg,k:a_a9M54wmLq8KrC5hM0jdg",
+      "globalIndex": 629,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "CNN International",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/9MYdpqR9/CNN_International.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_C/CNN_Internacional.mpd",
+      "drm_license_uri": "kid:nyRwitEYTuOgS2UJQfmJSw,k:5bx8X_OSEZQj2_HAI6eyHA",
+      "globalIndex": 630,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "BBC News",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/NfhTZDt4/BBC_News.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_C/BBC_World_News.mpd",
+      "drm_license_uri": "kid:AZ9y8gkdTL6ln_jIWxF_hg,k:pOrFEZVQZ1L59jrSTe-cNw",
+      "globalIndex": 631,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "FOX News",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/Gh5kqR2K/FOX_News.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc_C/Fox_News.mpd",
+      "drm_license_uri": "kid:P-PzGl57SKG1SOk2R1fOZg,k:Mpk_woEgf-kV9vHpkJV4aA",
+      "globalIndex": 632,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Al Jazeera",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/ZqF4KTvr/Al-Jazeera.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc_C/Alljazzera.mpd",
+      "drm_license_uri": "kid:eqAI4AkvRHWkFFhDaKBDxA,k:o4gkY8AJ_XgpDKxsm5WMoQ",
+      "globalIndex": 633,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Euronews",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/dtqDTdH4/Euronews.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_C/Euronews.mpd",
+      "drm_license_uri": "kid:2GsPVtMvRa2wprTkiMjwwg,k:5PGAsOYb4-gKtgLfXlb_Pw",
+      "globalIndex": 634,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "DW Español",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/28pvgGY2/DW_Español.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc_C/DW.mpd",
+      "drm_license_uri": "kid:4h_BLG7hhfvJCgUrBQJr6Q,k:D5b9UpA3B6rAtChToEP_0A",
+      "globalIndex": 635,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TVE Internacional",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/sgX9PcRW/TVE.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_C/TV_Espana.mpd",
+      "drm_license_uri": "kid:U-CjdB4uT_WEPxZbUzCQiA,k:RQlcqr2aNZzX6jkQ2GXWQw",
+      "globalIndex": 636,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "TV Galicia",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/ZYyZCFdw/Galicia.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc_C/Tv_Galicia.mpd",
+      "drm_license_uri": "kid:I0GfKgohQDipTiTbE-6FqQ,k:TGJ61rh3TlSOKNSq-CqWoA",
+      "globalIndex": 637,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Las Estrellas Internacional",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_C/Canal_de_las_estrellas.mpd",
+      "drm_license_uri": "kid:s32Fvp0rS2GflFvv9xP9ow,k:kXMJyY8HKwvUhN1lYMbRZg",
+      "globalIndex": 638,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Arirang",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/htVqpSrp/Arirang.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_enc_C/Arirang.mpd",
+      "drm_license_uri": "kid:Q214p1-tm9zG1AlkDBFqYg,k:x3RxrDtpRROpxf9ouNT6xQ",
+      "globalIndex": 639,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "UCL Uruguay",
+      "type": "CLEARKEY",
+      "icono": "https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/800/542/0/0/62763250072541.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd",
+      "drm_license_uri": "kid:ICoZ5IccRzmoAQqnslrzfQ,k:BwFbTPoEijNRuD1grsperQ",
+      "globalIndex": 640,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "France 24 Francés",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/60095595073431.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc_C/France_24.mpd",
+      "drm_license_uri": "kid:chh_JlFyTbGFBc3K1DWEHQ,k:b0HgVHbjTt97udxR8I-V3w",
+      "globalIndex": 641,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "New Brasil",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/g0HJnyL4/New_Brasil.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc_C/Bandeirantes.mpd",
+      "drm_license_uri": "kid:C09W1cGbRfs-dac7bsBubA,k:xGTitt7StS4ed1OzqFmrzg",
+      "globalIndex": 642,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "DNews",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/FKVR7bkD/DNews.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc_C/DNews.mpd",
+      "drm_license_uri": "kid:IVY9gs-3_dGLIT8L2SonTw,k:WUDY0LV7nmUz6ZzA578vjg",
+      "globalIndex": 643,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "France 24 Español",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/4m5NVvh1/FR24-ES.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc_C/France24_Flow.mpd",
+      "drm_license_uri": "kid:yKPSnbOMSp-pqDjD1NaB2w,k:06o3TEwN4z9GO0OHoYKXpg",
+      "globalIndex": 644,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Flow Music",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd",
+      "drm_license_uri": "kid:sqrkSnQUS-iyEY4g0UErqw,k:inrpltEtjV1WN9EET44Itw",
+      "globalIndex": 645,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Flow Music 2",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd",
+      "drm_license_uri": "kid:80zXcJ8JPSPU2wCRB9loYg,k:2KgpE42XC0XoZ8lzOjGy8A",
+      "globalIndex": 646,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Flow Music 3",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd\t|referer=https://portal.app.flow.com.ar/",
+      "drm_license_uri": "kid:WWtZlYCzmuLzxBP36uNpAg,k:LX49XTH2hpD9h3oRH4To4w",
+      "globalIndex": 647,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Flow Music 4",
+      "type": "CLEARKEY",
+      "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd\t|referer=https://portal.app.flow.com.ar/",
+      "drm_license_uri": "kid:4HixXtdw7HH4A8DsxD3gMw,k:cBC8zaVE900bQlxM69CC1A",
+      "globalIndex": 648,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Playboy TV (18+)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/tTLGm9X6/Playboy_TV.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd",
+      "drm_license_uri": "kid:hXfYHq8zQ22fHkgjYGhafA,k:9gigrHA8-q-UQldNmiuH-w",
+      "globalIndex": 649,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Venus (18+)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/fL6QgMwf/Venus.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd",
+      "drm_license_uri": "kid:NCN9KuZoTuegEfW5x8Q-bQ,k:Bdlz2YeRUSDlZ4gPUKQirw",
+      "globalIndex": 650,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Hustler Mature (18+)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd",
+      "drm_license_uri": "kid:zzfbVWvl7h7NHuHxvPOTkA,k:yy2DkPnGw5MRk5-1G6Qqsg",
+      "globalIndex": 651,
+      "category": "CORDOBA",
+      "source_group": "samples"
+    },
+    {
+      "name": "Sextreme (18+)",
+      "type": "CLEARKEY",
+      "icono": "https://i.postimg.cc/k4kPh7nx/Sextreme.png",
+      "original_url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd",
+      "drm_license_uri": "kid:lb1kInrPRY2veIb4A9Apjg,k:eeKO4OxYlYu2ZvnlOgzUNA",
+      "globalIndex": 652,
+      "category": "CORDOBA",
       "source_group": "samples"
     }
   ]
