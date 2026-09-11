@@ -632,7 +632,7 @@
           "name": "Telefe",
           "type": "CLEARKEY",
           "icono": "https://app.femon.net/tv/banners/6978b5344eb020.85390981.png",
-          "drm_license_uri": "kid:POwbHql5ndpVluZPN-XtIA,k:xp86_eIIXcqq3b9VJGoDIw",
+          "drm_license_uri": "kid:adCK15UJL8WdvfsZRCTdkg,k:pzlItE6Sku7eUMDGVDAYYA",
           "original_url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
           "headers": {
             "Origin": "https://portal.app.flow.com.py",
