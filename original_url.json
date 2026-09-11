@@ -353,7 +353,7 @@
           "name": "AMERICA TV",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/WpH8xpLd/Normal_2.png",
-          "drm_license_uri": "kid:PXr8Q9q5QNaZthRmskU2nw==,k:cStRZf+ZAVbmyeWAsLTfWQ==",
+          "drm_license_uri": "kid:PXr8Q9q5QNaZthRmskU2nw,k:cStRZf-ZAVbmyeWAsLTfWQ",
           "original_url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
