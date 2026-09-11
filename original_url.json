@@ -353,11 +353,11 @@
           "name": "AMERICA TV",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/WpH8xpLd/Normal_2.png",
-          "drm_license_uri": "kid:jqI1zggmQIsiHEmBFam2LQ,k:eqkmbtkepFEEgzcAKd_PRQ",
-          "original_url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+          "drm_license_uri": "kid:PXr8Q9q5QNaZthRmskU2nw==,k:cStRZf+ZAVbmyeWAsLTfWQ==",
+          "original_url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
           "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
           },
           "globalIndex": 29,
@@ -635,8 +635,8 @@
           "drm_license_uri": "kid:adCK15UJL8WdvfsZRCTdkg,k:pzlItE6Sku7eUMDGVDAYYA",
           "original_url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
           "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
           },
           "globalIndex": 50,
