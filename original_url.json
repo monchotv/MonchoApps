@@ -11,7 +11,7 @@
           "name": "AMÉRICA TV",
           "type": "CLEARKEY",
           "icono": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/AMER2.png?raw=true",
-          "drm_license_uri": "kid:PXr8Q9q5QNaZthRmskU2nw,k:7e-LqXnWSs6jyCfc1R0h7Q",
+          "drm_license_uri": "kid:PXr8Q9q5QNaZthRmskU2nw,k:cStRZf-ZAVbmyeWAsLTfWQ",
           "original_url": "live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
@@ -116,7 +116,7 @@
           "name": "Construir TV",
           "type": "CLEARKEY",
           "icono": "https://static.wikia.nocookie.net/logopedia/images/d/de/Dd74e-construirtv.png/revision/latest/scale-to-width-down/50?cb=20210527004647&path-prefix=es",
-          "drm_license_uri": "kid:LuDNkwMxS-_1fXYJmAZHHQ,k:7e-LqXnWSs6jyCfc1R0h7Q",
+          "drm_license_uri": "kid:Egy7UV3xMgUsiD9fUqwdWg,k:Q5c4iioWvLZBs8pO5uWtmw",
           "original_url": "live/c7eds/Construir_TV/SA_Live_dash_enc/Construir_TV.mpd",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
