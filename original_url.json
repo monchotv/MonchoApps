@@ -446,7 +446,22 @@
           "globalIndex": 65,
           "category": "📺  NOTICIAS",
           "source_group": "samples"
-        }
+        },
+        {
+          "name": "TN HD",
+          "type": "CLEARKEY",
+          "icono": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/TNARG.png?raw=true",
+          "drm_license_uri": "kid:S06+PGjEyVx2OQludsIz0A,k:DEjNXjKYt2KgmazcBaUYKg",
+          "original_url": "live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          },
+          "globalIndex": 65,
+          "category": "📺  NOTICIAS",
+          "source_group": "samples"
+        }		  
       ]
     },
     {
