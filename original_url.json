@@ -89,7 +89,7 @@
         },
         {
           "name": "Canal Rural",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "11",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/YSphQFCM/Logo.png",
           "drm_license_uri": "kid:cjCLRnNpjfPEFDvlQQyC1A,k:NfOMn7BGZFcu5sCpxTojiA",
@@ -217,7 +217,7 @@
         },
         {
           "name": "Metro",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "27",
           "type": "CLEARKEY",
           "icono": "https://static.flow.com.ar/images/-/-/0/0/904936680727.png",
           "drm_license_uri": "kid:MAQLbHtyOu4lHA3DxPTYTA,k:yNYKYdLZ0qzUBAoh2k0iAw",
@@ -249,7 +249,7 @@
         },
         {
           "name": "Net TV",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "4646",
           "type": "CLEARKEY",
           "icono": "https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/50?cb=20210315130135&path-prefix=es",
           "drm_license_uri": "kid:QoA_2MLP-Dv8oOZJMcQtKw,k:coyq4pToZLZqq-dTxy3wXg",
@@ -350,7 +350,7 @@
       "samples": [
         {
           "name": "+Perfil",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "8196",
           "type": "CLEARKEY",
           "icono": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAaCAMAAAB2FAnXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURRrF7RvF7RnF7hvF7xrF7hvF7hrG7hzF7R3F7R7E7R7F7RzE7h3E7hzF7h3F7hzE7xzF7x7E7h3G7wrH8wrG8wvG8w3H8QzF8w7F8wzG8w3G8wvE9QnH9ArG9A3F9A/F9A/E9AzG9Q3G9A/G9Q7G9A/G9A/F9g7G9gHJ9QHK9gTJ9QfJ9QTJ9gXJ9w3I9hPF8xPG8xHF9RHE9BDF9BHF9BLF9BDG9BHG9BDG9RLG9RLG9BPG9BDF9hLF9hTF9RXF9RbF9BXF9hbH9xrF8BzF8B/F8BHI9yDE7jfH7SPD8zPT8TPT8zbT8TbT8jPU8jLU8jXU8TnT8DrT8TzT8T7S8EXI61/P7V/R617S61nT7FvS7VjQ71fW8lnW8FzW8GLP7GTP7GnP63nV7nzW8Hzb83/b8ojY7o/d7pTY6YXZ8Zrf86fe7azb6qre76re7rnb57zb57rc5rvc5rvc57fd6rTe67Tf67Xf67fe67bf67Xd7LXf7LXf7bbe7Lbf7Lnc6Lnd6Lvc6Lrc6Ljd6r7e6b7f66nf8Kre8arf8Krf8avf8anf86rf86vf8qre86zf8a3f86zf8qnf9Jfh9Zjg9J3k+b3g6qfg86fh86Di9qfg9Kfg9ajg8ang8avg8Krg8avg8ajg8qng8qjg86ng86rg86rg8qjg9Kng9Kng9ajh9ang9srj7Mvj7c/k7M/m7c7m7c/l7s7m7s/n7tXl69Dm79Hn7tbn7dnp7sjn8Nzr8Oby8ujz8+3w8+3x8+7w8+nz9Orz9Ov09ez09e719u/19u/29/Dx9PDy9fHy9fHz9fLz9fPz9vLz9vD09fH19vD09vH09vD19vP19vL09vL19vD29vH29vD29/H29/L29/P29/L39/P39/T19/T29/X29/T39/L3+PP3+PT2+PX2+PT3+PX3+Pb3+PT4+PX4+PT4+fX4+fb4+Pb4+ff4+fb5+ff5+fb5+vf5+vf6+vn5+vj5+vj6+vn6+vj6+/n6+/n7+/r6+/r6+vr7+wAAAF46P94AAAEAdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBT9wclAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEc0lEQVRIS61VaXCTRRjutKbN1AloBFtHbbUUb1GxnRa8rVI88T7xxvtWPPGWGWkVmQzCgCjaJiWp4C31PipWy1AdxFJImtA2azfmc9lk+1Fi6rG+7377pSn8cszTme6zu9++zz7vvrvJk7lC6q+/Uxa75UarzSBXItsEB5i9QC898jC3GuvDoXZQzpFIPxdiSEpjHZXy2CMOn3ITDvLtqPJHzkQIFz9JyVjHJin3PeroGbdbwxHwlzORFOfiK5AKGUTK6886faYep7l0YkKwTmh7Y1bfBs2lExOCfal5Nihh2SIfv71mzUeap7jJ2Q7YF6M89JsepH2CG+EYHKyUI+lUKgWLGWdq630xcBIxR9LDMAdTKV3LMgL5yhJ5fHVry72as28+b/+WxpNCcJEUkGVA6Psogwpl1IAOZIex4JAB/w0m5Y8M00XCnHdLOQx1xtk/apGMwPifoyIPeQOr7tdcGkEaC4uYTDP4HqKAqRBRbWgrQy+cwerwdimT8Sh6SfdwsQHnAbCGcy2CB58l8nCTr/EBzSEIbBXvlbpPA9YAxz6awGYQ+qgGu1YJ7OF8PbaI7kRsa5ZIVrqe8PkaH9RcxUxYjAkBCcLdJVUfcojNr5wH49Da2kGesJ3ITsKpLTK2uh4N+F5/RnO1VsWyGXxMSQRAhEiaMIwiI9CaG6FAAJQLLGGFDWBSiwzA8qx0PfXWq69lzgRD77RYyMSt447i1BiIGbRfpQVELAsalO/s0lR2wlxGhConn61t+7Ct7YNb58y5+bZP177/zrvvfQIiMVuEmCaIRAzO4WkaBZ6Jpgown3HStSM5KmI5me9ZtHLlopZrzrvgoiuWezye5qbns51AQYIIgXSMCbqrE+hmDr4TSm9UxECRpYHWlpZW7+xzZl145ZLW1YGmFfPUGutMoBVQPnD82CAG4C7s7gTuSEZkPczt4mSpz+/3Bfyzz5918VVLmpt93hVPSpmAyRB+NShME6PFoFaVN/qFCg7zutwUkown7KcBXQo9F4fP4H7lzV/Q+PLCFxquPfvcSy5ffs/dCxoa5loipJ8naZSblgNhChoaYluGt0CnC3fIg70/qCk5+MsQBuOb8TXYhms5+XmzlF+DP8Cmbru67lz8yh13aW6JwMPUEebqgiMi4WiUtIcwjgyuIyQcJESZRU0CCBOCl58hJxECV3hjEFpCvqO2yGP+Fxue1dzKhilNZoxJfDJuXYr/jIxIILDqOc0tkbTmOUBGxOt7Y8zbNcbD/4Qt8sgy75tPaw6JBRH16uYGtsi8Zf6F92kOCsLkPb2/A7+hzjFuz/qC8WfUnTm+0FlX7y6Av/rC4mJ3sdvtKnS78t0Ox96Fjr0KnHUFRXs4HQ6nq8jlKB6X73IUufKdLocr7zpbZK7vJY8tYgqDkI72Hvy5umz/g0885NBjJleedNop+0w8aErt1Bm1lbUnVEw7rrKyvGRq+aSaCTWTyqaXlVftN31yRXVZac3EaaWlVSXHV5VUnVp94ITqkysOuPpfttERNmA4BzMAAAAASUVORK5CYII=",
           "drm_license_uri": "kid:K7vJXvLbgxyrmbO8KfluFA,k:83VVF-ZsK_ivnn3aM6fJqw",
@@ -414,7 +414,7 @@
         },
         {
           "name": "Canal 26",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "03",
           "type": "CLEARKEY",
           "icono": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEVHcEzIEhPIFBXIFBXIFBXIFBTIFBXIFBXIEhPIExTIFBXIEhPIExT////FAADHAAH67Oz34eHy0ND++PjloKDZcHDQR0jICgzDAADrt7jvxsfXZ2fOOjvUWlrgjo7JFxjKFxm0xUHMAAAADHRSTlMAz/jevkeC6CwTYqv52V6TAAABKklEQVQokX2TiZaDIAxF0VpxSYPgQlxa5/+/chJcRm2nz3M4yNUkPIJSm7I00THoJM3UVYWGXbo4ofwGR81R/sfu8KbsC9tpDuCR+NnWDbL8ElkDdn1V2wYWjKNzznZRqBOweSx6CsWnTF8Id4axGR+bJs9RZNIQwE2qQctv9VDz6NBMG5OaUvDWWodkhOIs46NvJUGqIs7C4rHn1R+7JrAGIFG7bSTr7Z7eESfdWCjZDRJzaiV257WK1/9e8rlUasljGzaj1WI5BtbTEs88A4xUGVjIZYkq+Z3ISXpTskGbKfXYjkP4KGzHQCG2L6Zc1CCw9YmfPrABQZzPZltdNYy0nmiJdBUGf9YD/SS1t8KXJsrj/xkrOaNja0oHHjpX3996Xq7DHJ+uwy+XDCMU8rsf0AAAAABJRU5ErkJggg==",
           "drm_license_uri": "kid:UuVcMpjy4Hy_5Z60j_2pQA,k:D7WRahQYjl7tVq-xEOgq9w",
@@ -446,7 +446,7 @@
         },
         {
           "name": "La Nación +",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "3644",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/dtnjTfgB/LN.png",
           "drm_license_uri": "kid:NWGUWhWohgOu4g6hXGBdbA,k:ehZ2u2zGy7Mo9BYm2AhFlA",
@@ -1425,7 +1425,7 @@
         },
         {
           "name": "ESPN Premium",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "3951",
           "type": "CLEARKEY",
           "icono": "https://static.wikia.nocookie.net/logopedia/images/5/55/ESPN_Premium_blanco.png/revision/latest/scale-to-width-down/50?cb=20220501173330&path-prefix=es",
           "drm_license_uri": "kid:xQKJLgN6nzSCcUeysk5Czw,k:JTG9NL7GwOj6Tgeu2yYa3g",
@@ -1589,7 +1589,7 @@
         },
         {
           "name": "TyC Sports",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "40",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/mD82Lb12/Ty_C_Sports.png",
           "drm_license_uri": "kid:Cx5oJTUPobwAMvjzYofgBg,k:EfxUCkU50Y-RzUA6XtQihA",
@@ -2151,7 +2151,7 @@
         },
         {
           "name": "Telemundo",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "2827",
           "type": "CLEARKEY",
           "icono": "https://play-lh.googleusercontent.com/TwIfy0hsJ57tJS0ZzmaEsoLEt-Wzy_p1CCLBnBnfg-jSAAbOGmc2uYQhaKVgVevzMI1J4FZdFnSMfQFvY4ej",
           "drm_license_uri": "kid:CmUFBLovP4ScKQtmpCXy2Q,k:-YCdGzfG7e2QtPX7zH7aJg",
@@ -2533,7 +2533,7 @@
         },
         {
           "name": "A3Cine",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "3627",
           "type": "CLEARKEY",
           "icono": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/A3CIN.png?raw=true",
           "drm_license_uri": "kid:X9I9eLlPXdelAgVHvxZz0w,k:KeTRbSANSspUN9FEuFOOkg",
@@ -2661,7 +2661,7 @@
         },
         {
           "name": "Ciudad Magazine",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "26",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/mDHT4mgR/Logo-2.png",
           "drm_license_uri": "kid:NrxS6miDHbvsapUpvIGp6A,k:OYWIFyNa0MFWQNveVvh9eA",
@@ -2811,7 +2811,7 @@
         },
         {
           "name": "Sony Channel",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "1579",
           "type": "CLEARKEY",
           "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest/scale-to-width-down/50?cb=20230828233601&path-prefix=es",
           "drm_license_uri": "kid:wOodPOxftzxnsHRjv0kMQA,k:tT8FbesGInfRsgGmCG6Y9g",
@@ -2859,7 +2859,7 @@
         },
         {
           "name": "Star Channel",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "879",
           "type": "CLEARKEY",
           "icono": "https://static.flow.com.ar/images/-/-/0/0/7718553707879.png",
           "drm_license_uri": "kid:_BQZCsyHLiBPOXPHW2Q58g,k:NM8TiZ2ySKeqLB3rKI117w",
@@ -2939,7 +2939,7 @@
         },
         {
           "name": "Volver",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "45",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png",
           "drm_license_uri": "kid:J33xy-K8htVVeA1Z638nQA,k:MGywJ0rNV79wx-r8ZD67TQ",
@@ -2992,7 +2992,7 @@
       "samples": [
         {
           "name": "Baby TV",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "695",
           "type": "CLEARKEY",
           "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png",
           "drm_license_uri": "kid:tsyNSnlZvMGEE5J_GkmKfA,k:GVuU0v8zV-k9JOKWw5tDJg",
@@ -3024,7 +3024,7 @@
         },
         {
           "name": "Cartoonito",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "453",
           "type": "CLEARKEY",
           "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI",
           "drm_license_uri": "kid:2w6X6WIF1UVHGsmCREzz4w,k:kLi_bRyM-HYfdUcPGC490Q",
@@ -3056,7 +3056,7 @@
         },
         {
           "name": "Disney Channel",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "136",
           "type": "CLEARKEY",
           "icono": "https://lokos.pages.dev/webp/logos/disney.webp",
           "drm_license_uri": "kid:E4mB7V91UnIyWTr0ySyQBw,k:DwXHi9fovD6eD3CMFCTzSw",
@@ -3072,7 +3072,7 @@
         },
         {
           "name": "Disney Junior",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "756",
           "type": "CLEARKEY",
           "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png",
           "drm_license_uri": "kid:YyQpzZljp2-QlRFF2ksi5g,k:vMhSeTzz-FoeCs0FCYU-Rw",
@@ -3184,7 +3184,7 @@
         },
         {
           "name": "Paka Paka",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "1492",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png",
           "drm_license_uri": "kid:6cQhp_IFygjmLr48pA40Mw,k:ZfoZfcL0cnOcHYT8tfiAzw",
@@ -3200,7 +3200,7 @@
         },
         {
           "name": "Plim Plim",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "8218",
           "type": "CLEARKEY",
           "icono": "https://static.flow.com.ar/images/673/CH_LOGO/800/542/0/0/51867644078010.png",
           "drm_license_uri": "kid:WzTsW-mn05Tl9JpepVrE9g,k:PozKb5RaOkyZhK5SjCQHuQ",
@@ -3216,7 +3216,7 @@
         },
         {
           "name": "Tooncast",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "880",
           "type": "CLEARKEY",
           "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/880.png",
           "drm_license_uri": "kid:G58L24fkWcyaAvFqWPseig,k:4RLnHxuZHWHdJnGeLekDtg",
@@ -3317,7 +3317,7 @@
         },
         {
           "name": "Discovery Science",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "493",
           "type": "CLEARKEY",
           "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
           "drm_license_uri": "kid:yfzZcJs4BYyiyQuD6BvAOQ,k:-3NuZcKnJImH5Yoqfm1Jpg",
@@ -3365,7 +3365,7 @@
         },
         {
           "name": "Discovery Turbo",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "492",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/KvXqQtH8/DTurbo.png",
           "drm_license_uri": "kid:D1Xsxkhryun9P1MnH8Fq2A,k:7rffWWn8WLV3Hy87x1Aq1Q",
@@ -3461,7 +3461,7 @@
         },
         {
           "name": "History 2",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "2823",
           "type": "CLEARKEY",
           "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3621.png",
           "drm_license_uri": "kid:bgjqhc2_XT0gidXppTSdjA,k:zNsT1tR3dYlEUqBinJhrZw",
@@ -3690,7 +3690,7 @@
         },
         {
           "name": "Telemundo",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "2827",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
           "drm_license_uri": "kid:jxeASXoxHrXjjqAwhYiMRw,k:Db3ryNUzbJcKyMkE6bzQNA",
@@ -3868,7 +3868,7 @@
         },
         {
           "name": "Enlace",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "413",
           "type": "HLS",
           "icono": "https://cablego.com.pe/cache/logos/ENLACE.png",
           "original_url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
@@ -4090,7 +4090,7 @@
         },
         {
           "name": "Quiero Musica",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "779",
           "type": "CLEARKEY",
           "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3281.png",
           "drm_license_uri": "kid:tlD4NCy1ZEJtaDBEEbv-iw,k:kcZZ3x92zMVMzYZVF4JONA",
@@ -5163,7 +5163,7 @@
       "samples": [
         {
           "name": "Claro Sports",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "8962",
           "type": "CLEARKEY",
           "icono": "data:image/png;base64,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",
           "drm_license_uri": "kid:Sy5fXUJ3ESHQ3F9sn3SsMA,k:YEYPpDJXxTe6Gaf3NdgXfA",
@@ -6050,7 +6050,7 @@
         },
         {
           "name": "Venus",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "3294",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/fL6QgMwf/Venus.png",
           "drm_license_uri": "kid:JlCXsa45jCRvXL70HTtHQw,k:FGi_JHXu8gBGDUXrjCB4jw",
@@ -6082,7 +6082,7 @@
         },
         {
           "name": "Sextreme",
-          "ClaroEPGId": null,
+          "ClaroEPGId": "3293",
           "type": "CLEARKEY",
           "icono": "https://i.postimg.cc/k4kPh7nx/Sextreme.png",
           "drm_license_uri": "kid:M3eLQZ5z36jNwxlf8b_CyA,k:ESPSikuVhi-twYKJV-SOkw",
