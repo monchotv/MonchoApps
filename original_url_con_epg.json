@@ -23,72 +23,72 @@
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.canal9interior",
-          "chnum": null
+          "chnum": 9
         },
         {
           "name": "Argentinísima",
           "ClaroEPGId": "6185",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png",
           "drm_license_uri": "kid:fpwPBFoJQLlx0QZ-7PYptw,k:kj9GagCNB3shrBPt4hYApQ",
           "original_url": "live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
           "globalIndex": 38,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.argentinisimasatelital",
-          "chnum": null
+          "chnum": 573
         },
         {
           "name": "Canal 90 Digital",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/769.png",
           "drm_license_uri": "kid:b7NgzHzTDXYfDtG3311HaA,k:shGOG00cwLNmTmbIhr1nPQ",
           "original_url": "live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd",
           "globalIndex": 39,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 90
         },
         {
           "name": "Canal de la Ciudad",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2332.png",
           "drm_license_uri": "kid:hwDlxqNSjzj4eKFyCril1A,k:3U1pYizZLf5CkimSXGoKdQ",
           "original_url": "live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd",
           "globalIndex": 40,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 515
         },
         {
           "name": "Canal Encuentro",
           "ClaroEPGId": "477",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/477/477_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png",
           "drm_license_uri": "kid:E-Fmsg2ZcTpC5Cv-kcczCw,k:QToGZdJmvMdqcGzPziokEA",
           "original_url": "live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
           "globalIndex": 41,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.encuentro",
-          "chnum": null
+          "chnum": 22
         },
         {
           "name": "Canal Rural",
           "ClaroEPGId": "11",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png",
           "drm_license_uri": "kid:cjCLRnNpjfPEFDvlQQyC1A,k:NfOMn7BGZFcu5sCpxTojiA",
           "original_url": "live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
           "globalIndex": 42,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.canalrural",
-          "chnum": null
+          "chnum": 420
         },
         {
           "name": "Caras TV",
@@ -120,14 +120,14 @@
           "name": "Diputados TV",
           "ClaroEPGId": "4320",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4320/4320_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/dtv.png",
           "drm_license_uri": "kid:g0BKGmO62KHSGqv4n2Q2zA,k:tM5TTDSRHnA__HgGU7sqeA",
           "original_url": "live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd",
           "globalIndex": 45,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.diputadostv",
-          "chnum": null
+          "chnum": 36
         },
         {
           "name": "El Trece",
@@ -140,7 +140,7 @@
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.canal13interior",
-          "chnum": null
+          "chnum": 12
         },
         {
           "name": "El Trece Internacional",
@@ -166,7 +166,7 @@
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 13
         },
         {
           "name": "Garage TV",
@@ -185,14 +185,14 @@
           "name": "Metro",
           "ClaroEPGId": "27",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/27/27_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2263.png",
           "drm_license_uri": "kid:MAQLbHtyOu4lHA3DxPTYTA,k:yNYKYdLZ0qzUBAoh2k0iAw",
           "original_url": "live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
           "globalIndex": 50,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.metro",
-          "chnum": null
+          "chnum": 8
         },
         {
           "name": "Mix TV",
@@ -211,14 +211,14 @@
           "name": "Net TV",
           "ClaroEPGId": "4646",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/96867739074646.png",
           "drm_license_uri": "kid:QoA_2MLP-Dv8oOZJMcQtKw,k:coyq4pToZLZqq-dTxy3wXg",
           "original_url": "live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
           "globalIndex": 52,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.nettv",
-          "chnum": null
+          "chnum": 21
         },
         {
           "name": "Rock & Pop ",
@@ -242,14 +242,14 @@
           "name": "Telefe",
           "ClaroEPGId": "1335",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2354.png",
           "drm_license_uri": "kid:adCK15UJL8WdvfsZRCTdkg,k:pzlItE6Sku7eUMDGVDAYYA",
           "original_url": "live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
           "globalIndex": 54,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.telefeinterior",
-          "chnum": null
+          "chnum": 10
         },
         {
           "name": "Telefe Internacional",
@@ -275,20 +275,20 @@
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 423
         },
         {
           "name": "TV Pública",
           "ClaroEPGId": "1569",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1569.png",
           "drm_license_uri": "kid:WJ9bb0r-wLM2LNa-KrHrNg,k:bWhfMVFzDKakvndlpG0wpQ",
           "original_url": "live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
           "globalIndex": 57,
           "category": "📺  ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.tvpublica",
-          "chnum": null
+          "chnum": 11
         }
       ]
     },
@@ -312,14 +312,14 @@
           "name": "A24",
           "ClaroEPGId": "343",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/343/343_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png",
           "drm_license_uri": "kid:cRM-qOGUEyOiGstQkMXEaQ,k:9GF45HWB1BAAilBe7tdZ_g",
           "original_url": "live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
           "globalIndex": 59,
           "category": "📺  NOTICIAS",
           "source_group": "samples",
           "liveref": "ar.a24",
-          "chnum": null
+          "chnum": 15
         },
         {
           "name": "Argentina 12",
@@ -338,66 +338,66 @@
           "name": "C5N",
           "ClaroEPGId": "709",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/709/709_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png",
           "drm_license_uri": "kid:75itOkpbn27a6IXov0UNPA,k:hhhzxsaetm3wr8MDSgKnlg",
           "original_url": "live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
           "globalIndex": 61,
           "category": "📺  NOTICIAS",
           "source_group": "samples",
           "liveref": "ar.c5n",
-          "chnum": null
+          "chnum": 16
         },
         {
           "name": "Canal 26",
           "ClaroEPGId": "03",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3/3_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png",
           "drm_license_uri": "kid:UuVcMpjy4Hy_5Z60j_2pQA,k:D7WRahQYjl7tVq-xEOgq9w",
           "original_url": "live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
           "globalIndex": 62,
           "category": "📺  NOTICIAS",
           "source_group": "samples",
           "liveref": "ar.canal26",
-          "chnum": null
+          "chnum": 18
         },
         {
           "name": "Crónica TV",
           "ClaroEPGId": "192",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/192/192_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3986.png",
           "drm_license_uri": "kid:M97Tf--qbD1oeODVVd-v_Q,k:ngJMEK8g8kCh6jW5TRR_KA",
           "original_url": "live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
           "globalIndex": 63,
           "category": "📺  NOTICIAS",
           "source_group": "samples",
           "liveref": "ar.cronicatv",
-          "chnum": null
+          "chnum": 17
         },
         {
           "name": "La Nación +",
           "ClaroEPGId": "3644",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png",
           "drm_license_uri": "kid:NWGUWhWohgOu4g6hXGBdbA,k:ehZ2u2zGy7Mo9BYm2AhFlA",
           "original_url": "live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
           "globalIndex": 64,
           "category": "📺  NOTICIAS",
           "source_group": "samples",
           "liveref": "ar.lnmas",
-          "chnum": null
+          "chnum": 19
         },
         {
           "name": "TN",
           "ClaroEPGId": "36",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/36/36_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1847.png",
           "drm_license_uri": "kid:d11BE9dr6sgjHpLtcy4n1g,k:CFSla-ZVv6kFXvDkmA9GdA",
           "original_url": "live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
           "globalIndex": 65,
           "category": "📺  NOTICIAS",
           "source_group": "samples",
           "liveref": "ar.todonoticias",
-          "chnum": null
+          "chnum": 14
         },
         {
           "name": "TN HD",
@@ -599,7 +599,7 @@
           "category": "📺  INTERIOR DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 2
         },
         {
           "name": "2 Posadas",
@@ -1130,7 +1130,7 @@
           "category": "📺  INTERIOR DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 7
         },
         {
           "name": "Somos El Valle",
@@ -1143,7 +1143,7 @@
           "category": "📺  INTERIOR DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 526
         },
         {
           "name": "Somos La Plata",
@@ -1156,7 +1156,7 @@
           "category": "📺  INTERIOR DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 519
         },
         {
           "name": "Somos MDQ-Necochea",
@@ -1175,27 +1175,27 @@
           "name": "Somos Rosario",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/JzV1Rx5t/Somos_Rosario.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/896.png",
           "drm_license_uri": "kid:LKlc_5p3ga2PKIkGNJa8zA,k:CQHTvrsML-jbOHCiH3NrXQ",
           "original_url": "live/c4eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd",
           "globalIndex": 120,
           "category": "📺  INTERIOR DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 520
         },
         {
           "name": "Somos Salta-Jujuy",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/y84V7jy1/Somos_Salta_Jujuy.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2411.png",
           "drm_license_uri": "kid:yHu0z6GLcGxWin4wGTgVCw,k:LNPjt5peIGLWdYXetLJQEQ",
           "original_url": "live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd",
           "globalIndex": 121,
           "category": "📺  INTERIOR DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 523
         },
         {
           "name": "UNLP.tv",
@@ -1219,118 +1219,118 @@
           "name": "América Sports",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/fWrf82xx/Logo-2.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/84.png",
           "drm_license_uri": "kid:MmlTb-3GnLoeAoH_YsxOuQ,k:Ukbu305683cfgImdtmfe3g",
           "original_url": "live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
           "globalIndex": 123,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 115
         },
         {
           "name": "DeporTV",
           "ClaroEPGId": "2198",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png",
           "drm_license_uri": "kid:5yHN-QQ-5WIpYAUFaidX3g,k:cCWcnYJ5BegIjN7c61auhw",
           "original_url": "live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
           "globalIndex": 124,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.deportv",
-          "chnum": null
+          "chnum": 100
         },
         {
           "name": "ESPN",
           "ClaroEPGId": "229",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/229/229_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3224.png",
           "drm_license_uri": "kid:0Hn_o3V-gzVhH8SL5rpH_w,k:BQWdHLIbZwilXpwm-zji8w",
           "original_url": "live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
           "globalIndex": 125,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.espn",
-          "chnum": null
+          "chnum": 103
         },
         {
           "name": "ESPN 2",
           "ClaroEPGId": "18",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/18/18_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3189.png",
           "drm_license_uri": "kid:5uq1PPjqliuZnFnCmFlqZQ,k:EMEDrnb5liDWb6dfLAMwKg",
           "original_url": "live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
           "globalIndex": 126,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.espn2",
-          "chnum": null
+          "chnum": 102
         },
         {
           "name": "ESPN 3",
           "ClaroEPGId": "4971",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2020.png",
           "drm_license_uri": "kid:3u7Q9ExrReBk9NUGRIboIQ,k:v4nO65NWTdxgO6av2Mkmag",
           "original_url": "live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
           "globalIndex": 127,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.espn3",
-          "chnum": null
+          "chnum": 104
         },
         {
           "name": "ESPN 4",
           "ClaroEPGId": "3224",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/espn4.png",
           "drm_license_uri": "kid:0CmB5vrqzvSckP2wU6tkHQ,k:ZF4TYk6TOEGx6jXNobVb0Q",
           "original_url": "live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
           "globalIndex": 128,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.espnextra",
-          "chnum": null
+          "chnum": 105
         },
         {
           "name": "ESPN Premium",
           "ClaroEPGId": "3951",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/espnpremium.png",
           "drm_license_uri": "kid:xQKJLgN6nzSCcUeysk5Czw,k:JTG9NL7GwOj6Tgeu2yYa3g",
           "original_url": "live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
           "globalIndex": 129,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.foxsportspremium",
-          "chnum": null
+          "chnum": 123
         },
         {
           "name": "Flow Sports",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/FLOW SPORTS.png",
           "drm_license_uri": "kid:_bmWNSpFszm4bz6zNq82xg,k:IbhUPBOyuH4OCXYCpx8_kQ",
           "original_url": "live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
           "globalIndex": 130,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 117
         },
         {
           "name": "Flow Sports 2",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/FLOW SPORTS 2.png",
           "drm_license_uri": "kid:AsX0bexMP-rd5vWwsMbptg,k:iRhvjCUPgpG0IRrBsr3BAw",
           "original_url": "live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
           "globalIndex": 131,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 118
         },
         {
           "name": "Fox Deportes",
@@ -1358,40 +1358,40 @@
           "name": "FOX Sports",
           "ClaroEPGId": "221",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/221/221_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/979.png",
           "drm_license_uri": "kid:N3MLAKX5IITEeoEp6EVZ8w,k:ouIKRaBX_058C8KtSebz5Q",
           "original_url": "live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
           "globalIndex": 133,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.foxsports",
-          "chnum": null
+          "chnum": 106
         },
         {
           "name": "FOX Sports 2",
           "ClaroEPGId": "978",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/978/978_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2785.png",
           "drm_license_uri": "kid:Gwq2gO-UoYQhhfp4qDDL1w,k:IxKatVcq7adgfJIGVcDb6g",
           "original_url": "live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
           "globalIndex": 134,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.foxsports2",
-          "chnum": null
+          "chnum": 107
         },
         {
           "name": "FOX Sports 3",
           "ClaroEPGId": "362",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/362/362_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2366.png",
           "drm_license_uri": "kid:Rim9CuMMDnKvER-5SPraHA,k:eGQVTGeedp5_Fkugg8j60w",
           "original_url": "live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
           "globalIndex": 135,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.foxsports3",
-          "chnum": null
+          "chnum": 108
         },
         {
           "name": "PX Sports",
@@ -1404,7 +1404,7 @@
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.pxtvhd",
-          "chnum": null
+          "chnum": 113
         },
         {
           "name": "Showsport (Córdoba)",
@@ -1423,27 +1423,27 @@
           "name": "TNT Sports Premium",
           "ClaroEPGId": "3950",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3984.png",
           "drm_license_uri": "kid:n7VjAbx2h7rwsaYd75oAeg,k:lH0ilLpnJWgn6Ol_Jn5x4A",
           "original_url": "live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
           "globalIndex": 138,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.tntsports",
-          "chnum": null
+          "chnum": 124
         },
         {
           "name": "TyC Sports",
           "ClaroEPGId": "40",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/40/40_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/311.png",
           "drm_license_uri": "kid:Cx5oJTUPobwAMvjzYofgBg,k:EfxUCkU50Y-RzUA6XtQihA",
           "original_url": "live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
           "globalIndex": 139,
           "category": "📺  DEPORTE DE ARGENTINA",
           "source_group": "samples",
           "liveref": "ar.tycsports",
-          "chnum": null
+          "chnum": 101
         },
         {
           "name": "TyC Sports Internacional",
@@ -1483,7 +1483,7 @@
           "name": "Dsports +",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAgSSURBVEhLjVZ7bJVnGf+93+Xcek5PW9l6o1CKLRnBSpmIUsIljm7JlFmSMRNjjG5pMdNhYsJcvCxsM0ajMYLOP9wiOhIccc5MHc5lwzF1G86OAYWtcLCjhV5OL6elPZee7/tef8/3nZY1Q+LTPt97+d7v+T339yj8nxRrPlFX7GzY4kVUm57INerMVIXOaq0K8Qk1VnXRS8ffVKPecT0THS99ckO6IXDNmtNWenf1Xd5Q5qs6NbQJFy9beI9y3RzgzQFac072yOomGIWmgumt/Gu507TfA16ahMkX16f/CWx9d2yjN3vlgPf6u+uQugKYDnfJmiK1S0COnsxLo0MuUpyjEHZX6bhufzmG5V8bgHkukLiYPgB8X0u/8VRH+JuF1Jl96DljwaZARaB5QB+Io4CJpWK1rB1RhnNfvxD3QohjUzaKzfenYR8MpF+jRcBdKy6bR9YZj2fOvtqFzACt5KYh3qI0l671CmS6WRcDUM/gXJgHXbF2HphzbXESQgTNOoHPPpxG4lFuLNAi4Jbbp39wvv/oXj11ib6mQP5DiaUEdGfoyomA3VnuifU2D8TIZZxzdLkWUFeUEWCLACbCWKPL8ZmvjyK2n5s+LQBv21DoPJ4+9jt35rQBm9vyxhQ3i2W0koDqjnXQrauAPK03CJKnAj0ngGOvch4nWAXPRsgEFU8QVBFcFIhhazGO9i0jiLwmePIWB7fOVZya6D/gTp4yfPcK+XElQ5gKkPXJt4AKCl9SDdhRoLIe+MJu4JHHgGSeR+gNzREMBX2uOCrMkfPI4h92EVd+mcQ0EyCIIq7EvrX3wvCfd8CgZSZNNQIgSgkU8OccJ0aBf/4FGOgF3vkXMMJsryL40uXAyibglaP8hBZDQiBOK8nwyaCE6ZuX4NaBKTzaY5z8tBMdyPR3wSnV/fuzV8D8kpF9UTRBcMa772WCPQM19DPgiYd5hudu+SiwagXPZcmSYfK9R/Brc1qMWVzcU44Rw/jJoN4yfLW33gcoClAJbIFlLXFmVFzGi2WCBzLA3VnoB2eg8m8Aw6wAyYnmZj4Y/4XwyBhYrP25y7ep1TWoajV6RrztOt/PPWrmlNjlIWkQ801ifi77XCtLhJUSUOZSyz7JBs/5YO8fBVTiXuBfSjG+txmz2eE2P2v9JkDQgoBz7rucPG+1Q0scJg7bpd5fDhyNQu2PU/TH2FuXUSgpdZ6PIL4Cqn3QwN2Gn2xzXKX5HF9rOO7VBl9Tvw0KAA/PUVMZfSs59/epnDPN7KXg5duAs53QZd3sOuwLFm3oOwP09lFOOMAlrCSXsMG5sOmDF1hamQa1NHbq8mDhT3V+k/BorV92CoqZrQ0CSoZLp3IyUPUh6If28ByBrkoFUIm6WqiRAehHHgLSVFInKVwSUdwuZSO1HOLTKs0ttOGL/zZsHS74HuE3SrT0WHty+zhMnDl2q8JVemAaStafaAOmp4DxEXohC5Ubg3r6cWBvN9Qo37NbSe0COVqYJVyeLXMOUXKMlpZxrCRYHb9ULdHBv/flDrXLYXED98gsCY5ahCgyLVaa7zWVEOZZiZ24R7MhgqKFFeOrCBn0LIPANk9E+AyTZYxSgQQ61e4j5tLwY+vHiqeZIXQzNVKKLv3cWzA6L0CN5WB+OQXjkyOBF4pUrJultMGFOh+Buo8KbS9AVRdhbpqF6hyDsW0Sds6B96UhhGqpTm8C+W1Z2AkbFaNJ3ljV2KnaDxtLQpFjUSyjfpbPqoyZextj9gdaM5CBU5uF96wNvWsceg/79RthqLO0qSsD3ZyDdZBpc+ckrCN0RmgWsV/FUNw8hlAf7XshhEJHFrmOPKZ3TEG1GGjBcrTqyDFjU41+odJsmhYHiZswQwV+XQfsysC8XX5l0KEbPJhPfwiKVWS+Y5PpyCQdJMWw04HVG0YoQzezyYSzYZQfZj9PFJH5ziDiKd5OwwaS78WRHK/ErWj4TwjuCWPfOXOqylhxKEInhBmZkM1M3TgDo4w5OFTJHy8RmE+tgP36UkQPNcL7/gz0twuIHK6B4fKyf64GeplGPHQTbDeMhK6C0WrBXemg/FISdalyNL5YgaZX6lEzXo0OfPgXjSiTyxNYHyo2jM719GZxPOFimNfsGHOHWcv6NS2WgcN4Mgx+HRqMsyQd26jBqrJ495q8WGy2U8tgsDzewLxOLV6nYUfSit5gPsdQi21oH+hC+2p6diYoNtJGVXggrZ/9aQEXuJLMzRPMIZjkrlSgFLjcMZKE0gikKfjBoWC5TbWf09K3pKjkdJj7YWZzCEnUYJn+Crbf1YjqP/IVT5RoZ8xV2Wz6t4N4bpeC3FTBXUqn+UKDo9KNZBaM0g5EMaYbWRNAQEW5wD/SNsK01SLwDrT/cDs+8iBf+7QALHQP3Chvj9+n8bc7XNaqQ8sNH7zUYcjzvymEgp4UsNzC7Gu0WKwXtrmWOg5hrb32yc877d1sMGyFAS0CFvoG3PAI3v75AE7eyyLggRw/Z536PTcAZXHxqTmXJiFWiUsDFneLRyQ0McTdNdbK793dunmf0SM/V6/RB4CFnkBBvYa37xlB/4/zmKgLSWOhy+W2EdeKZdL0JZYBsIwWR+lT0g3Eucl3kypx/72646VA6mK6LvA8/QgXys8h1U2X755DrsljSw0ARQFhia1YahJQQEP8rRk9czMqDtyC2t98HKukBK5LNwSep+dxyXweZ9fnkfsUM72NCdfI604uSFa5NUmXX4zBfjOB2IutqD+9FaslFjcg4L9PjXVjQjDnpQAAAABJRU5ErkJggg==",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/DSPORTS-05.png",
           "drm_license_uri": "kid:g_gcTMFEOZFUPeTiLup1hg,k:3f18plPW81VD2O2zxojiDw",
           "original_url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
           "headers": {
@@ -1499,7 +1499,7 @@
           "category": "📺 Dsports",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 109
         },
         {
           "name": "DSports 🇦🇷",
@@ -1578,7 +1578,7 @@
           "category": "📺 Dsports",
           "source_group": "samples",
           "liveref": "ar.dsports2",
-          "chnum": null
+          "chnum": 110
         }
       ]
     },
@@ -2064,7 +2064,7 @@
           "name": "Telemundo",
           "ClaroEPGId": "2827",
           "type": "CLEARKEY",
-          "icono": "https://play-lh.googleusercontent.com/TwIfy0hsJ57tJS0ZzmaEsoLEt-Wzy_p1CCLBnBnfg-jSAAbOGmc2uYQhaKVgVevzMI1J4FZdFnSMfQFvY4ej",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4301.png",
           "drm_license_uri": "kid:CmUFBLovP4ScKQtmpCXy2Q,k:-YCdGzfG7e2QtPX7zH7aJg",
           "original_url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
           "globalIndex": 175,
@@ -2072,7 +2072,7 @@
           "source_group": "samples",
           "liveref": null,
           "headers": {},
-          "chnum": null
+          "chnum": 331
         },
         {
           "name": "Top Barca",
@@ -2205,27 +2205,27 @@
           "name": "HBO 2",
           "ClaroEPGId": "2127",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2127.png",
           "drm_license_uri": "kid:kb1vgp0GSYwh4hKs8cX6Bw,k:FIo1goRonkCyIHTCRMU12g",
           "original_url": "live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
           "globalIndex": 184,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hbo2hd",
-          "chnum": null
+          "chnum": 251
         },
         {
           "name": "HBO Family",
           "ClaroEPGId": "335",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/335/335_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2687.png",
           "drm_license_uri": "kid:l2j0I-USHe0jY39UJFUGog,k:q9KNzoPILSbVlTtBbbDlKg",
           "original_url": "live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
           "globalIndex": 185,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hbofamilyestehd",
-          "chnum": null
+          "chnum": 258
         },
         {
           "name": "HBO MULTICAMARA",
@@ -2249,66 +2249,66 @@
           "name": "HBO Mundi",
           "ClaroEPGId": "12",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/12/12_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/12.png",
           "drm_license_uri": "kid:VvwUVJIQlZDYLPj2DFXU9Q,k:xxMkFXlDbg1f4kgLbrex_Q",
           "original_url": "live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
           "globalIndex": 187,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hbomundi",
-          "chnum": null
+          "chnum": 254
         },
         {
           "name": "HBO Plus",
           "ClaroEPGId": "2686",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2166.png",
           "drm_license_uri": "kid:wceAZHqY1Gw-WGfPIE0Smg,k:AG1E8CvlXCjzS5EG15qCqQ",
           "original_url": "live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
           "globalIndex": 188,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hboplusestehd",
-          "chnum": null
+          "chnum": 252
         },
         {
           "name": "HBO Pop",
           "ClaroEPGId": "1378",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1378.png",
           "drm_license_uri": "kid:eCvmqgXi5T8fB2msITNZdQ,k:vFTv4k68YSfe4mRwTN1UOw",
           "original_url": "live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
           "globalIndex": 189,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hbopop",
-          "chnum": null
+          "chnum": 255
         },
         {
           "name": "HBO Signature",
           "ClaroEPGId": "500",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/500/500_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/500.png",
           "drm_license_uri": "kid:SRjTvzmaI36O4GXrPr9zJw,k:dHF5KWrjcOm4dGoJkEtThQ",
           "original_url": "live/c6eds/HBO_Signature/SA_Live_dash_enc_wl/HBO_Signature.mpd",
           "globalIndex": 190,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hbosignaturehd",
-          "chnum": null
+          "chnum": 259
         },
         {
           "name": "HBO Xtreme",
           "ClaroEPGId": "2688",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/334.png",
           "drm_license_uri": "kid:scUYxIWbHqwaxAndenEhVQ,k:2a4p1jbhQHTaEDYHZe5MtQ",
           "original_url": "live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
           "globalIndex": 191,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.hboxtreme",
-          "chnum": null
+          "chnum": 256
         },
         {
           "name": "Premiere",
@@ -2321,7 +2321,7 @@
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.upremiere",
-          "chnum": null
+          "chnum": 260
         },
         {
           "name": "Cinema",
@@ -2334,7 +2334,7 @@
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.ucinema",
-          "chnum": null
+          "chnum": 261
         },
         {
           "name": "Comedy",
@@ -2347,7 +2347,7 @@
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.ucomedy",
-          "chnum": null
+          "chnum": 262
         },
         {
           "name": "Crime",
@@ -2360,7 +2360,7 @@
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.ucrime",
-          "chnum": null
+          "chnum": 263
         },
         {
           "name": "Reality",
@@ -2373,33 +2373,33 @@
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.ureality",
-          "chnum": null
+          "chnum": 264
         },
         {
           "name": "Studio",
           "ClaroEPGId": "77",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/77/77_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/77.png",
           "drm_license_uri": "kid:2-XZzgF0AHb9yVy8AlO57g,k:2KjvQ0v_roDkXiA_b39JiA",
           "original_url": "live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
           "globalIndex": 197,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.studiouniversal",
-          "chnum": null
+          "chnum": 314
         },
         {
           "name": "UNIVERSAL TV",
           "ClaroEPGId": "1508",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1508/1508_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1508.png",
           "drm_license_uri": "kid:4Lt9tw3u5r6biBpb0a9kUw,k:iMcvhiap16nKIi_tYuHmrw",
           "original_url": "live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
           "globalIndex": 198,
           "category": "📺  HBO & UNIVERSAL",
           "source_group": "samples",
           "liveref": "ar.universalhd",
-          "chnum": null
+          "chnum": 312
         }
       ]
     },
@@ -2410,53 +2410,53 @@
           "name": "A&E",
           "ClaroEPGId": "3826",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/167.png",
           "drm_license_uri": "kid:RtTdpj7fIh2uhqMsbhyP2w,k:QNZsuAbsH6D1ZJ2ACkPsRA",
           "original_url": "live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
           "globalIndex": 199,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.aemundohd",
-          "chnum": null
+          "chnum": 315
         },
         {
           "name": "A3Cine",
           "ClaroEPGId": "3627",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3627/3627_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/a3cine.png",
           "drm_license_uri": "kid:X9I9eLlPXdelAgVHvxZz0w,k:KeTRbSANSspUN9FEuFOOkg",
           "original_url": "live/c7eds/A3_Cine/SA_Live_dash_enc_wl/A3_Cine.mpd",
           "globalIndex": 200,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.a3cinehd",
-          "chnum": null
+          "chnum": 328
         },
         {
           "name": "A3Series",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/A3SER.png?raw=true",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3988.png",
           "drm_license_uri": "kid:aqUogAirOxwBzLL8Vb3RUQ,k:C-BJUnzLxb-txC94RaXTXg",
           "original_url": "live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
           "globalIndex": 201,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 321
         },
         {
           "name": "AMC",
           "ClaroEPGId": "1250",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/97.png",
           "drm_license_uri": "kid:MP_nondlN-jOxwINeDU2-Q,k:e08yNXashdiTj1vrwkUTHA",
           "original_url": "live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
           "globalIndex": 202,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.amchd",
-          "chnum": null
+          "chnum": 319
         },
         {
           "name": "AMC Series",
@@ -2475,118 +2475,118 @@
           "name": "AXN",
           "ClaroEPGId": "1862",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/100.png",
           "drm_license_uri": "kid:lbnIhKl0R-yrQj0FTMSZqg,k:9XSZ8UMrtw6cuaDr--8tpA",
           "original_url": "live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
           "globalIndex": 204,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.axnhd",
-          "chnum": null
+          "chnum": 313
         },
         {
           "name": "Cine.AR",
           "ClaroEPGId": "1605",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1605.png",
           "drm_license_uri": "kid:ehGji3jypEOAvzlUsWkGbg,k:ToTnOi3fyoyPRzAjAz4GSQ",
           "original_url": "live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
           "globalIndex": 205,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.cinear",
-          "chnum": null
+          "chnum": 300
         },
         {
           "name": "CineCanal",
           "ClaroEPGId": "3445",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1292.png",
           "drm_license_uri": "kid:mLMaChJdge9MnK8Wg_VURA,k:fsPfB3H-hsn0BXZc6ftSBA",
           "original_url": "live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
           "globalIndex": 206,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.cinecanalhd",
-          "chnum": null
+          "chnum": 305
         },
         {
           "name": "Cinemax",
           "ClaroEPGId": "3142",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2292.png",
           "drm_license_uri": "kid:_YTbGDhmkWsVNmtIUuaNqA,k:EgGx8O0pmkbd_6u1yFU3kw",
           "original_url": "live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
           "globalIndex": 207,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.cinemaxhd",
-          "chnum": null
+          "chnum": 301
         },
         {
           "name": "Ciudad Magazine",
           "ClaroEPGId": "26",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/26/26_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/26.png",
           "drm_license_uri": "kid:NrxS6miDHbvsapUpvIGp6A,k:OYWIFyNa0MFWQNveVvh9eA",
           "original_url": "live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
           "globalIndex": 208,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.ciudadmagazine",
-          "chnum": null
+          "chnum": 20
         },
         {
           "name": "Comedy Central",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/50?cb=20251109215224",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2037.png",
           "drm_license_uri": "kid:eX65fRG37jHn2kViSEZIeQ,k:k6VOI9b7Xn0FQgonmSOYjA",
           "original_url": "live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
           "globalIndex": 209,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 326
         },
         {
           "name": "Europa Europa",
           "ClaroEPGId": "3478",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3478/3478_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/184.png",
           "drm_license_uri": "k:i9RZqRRAV7Aj-ZPlTid3Xg,kid:ZZUw4hfRTCSCaJm976xI6Q",
           "original_url": "live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
           "globalIndex": 210,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.europaeuropahd",
-          "chnum": null
+          "chnum": 316
         },
         {
           "name": "FX",
           "ClaroEPGId": "2040",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2040.png",
           "drm_license_uri": "kid:eKFyWL5cpy7DvDYq65doFg,k:McGINh9kMc9N-1wXaHC06Q",
           "original_url": "c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
           "globalIndex": 211,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.fxhd",
-          "chnum": null
+          "chnum": 308
         },
         {
           "name": "GOLDEN",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/golden.png",
           "drm_license_uri": "kid:9s14TltTIIJh3YGjRZCEAA,k:sSX9d9fYh1LcBF5X7c-ZQw",
           "original_url": "live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
           "globalIndex": 212,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 322
         },
         {
           "name": "GOLDEN EDGE",
@@ -2671,14 +2671,14 @@
           "name": "Sony Channel",
           "ClaroEPGId": "1579",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/32.png",
           "drm_license_uri": "kid:wOodPOxftzxnsHRjv0kMQA,k:tT8FbesGInfRsgGmCG6Y9g",
           "original_url": "live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
           "globalIndex": 217,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.canalsonyhd",
-          "chnum": null
+          "chnum": 310
         },
         {
           "name": "Sony Movies",
@@ -2691,72 +2691,72 @@
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.sonymovies",
-          "chnum": null
+          "chnum": 323
         },
         {
           "name": "Space",
           "ClaroEPGId": "4535",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1257.png",
           "drm_license_uri": "kid:MmhLZ1Q50Selqx4HsqVyQg,k:4Wn2Jd9HXW0cAUzKGlKiUQ",
           "original_url": "live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
           "globalIndex": 219,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.spacehd",
-          "chnum": null
+          "chnum": 304
         },
         {
           "name": "Star Channel",
           "ClaroEPGId": "879",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/879/879_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/19.png",
           "drm_license_uri": "kid:_BQZCsyHLiBPOXPHW2Q58g,k:NM8TiZ2ySKeqLB3rKI117w",
           "original_url": "live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
           "globalIndex": 220,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.star",
-          "chnum": null
+          "chnum": 309
         },
         {
           "name": "TCM",
           "ClaroEPGId": "328",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/328/328_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/328.png",
           "drm_license_uri": "kid:1A6rNt_3QUmExvUbcXS-DA,k:67JZp_dr53n43X1o9V4AmA",
           "original_url": "live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
           "globalIndex": 221,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.tcm",
-          "chnum": null
+          "chnum": 318
         },
         {
           "name": "TNT",
           "ClaroEPGId": "4230",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4230/4230_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1606.png",
           "drm_license_uri": "kid:YdmHPh8oHNAiOsznc8wIsA,k:PdoNiezjfCRO2Mt-kBU1VQ",
           "original_url": "live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
           "globalIndex": 222,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.tnthd",
-          "chnum": null
+          "chnum": 306
         },
         {
           "name": "TNT Series",
           "ClaroEPGId": "3421",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2999.png",
           "drm_license_uri": "kid:YTo9wlsdPtQYbio5msfwgQ,k:e1zxz3rtpEY1m7zSO1dxtg",
           "original_url": "live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
           "globalIndex": 223,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.tntserieshd",
-          "chnum": null
+          "chnum": 307
         },
         {
           "name": "USA Network",
@@ -2769,33 +2769,33 @@
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 317
         },
         {
           "name": "Volver",
           "ClaroEPGId": "45",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/45/45_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/45.png",
           "drm_license_uri": "kid:J33xy-K8htVVeA1Z638nQA,k:MGywJ0rNV79wx-r8ZD67TQ",
           "original_url": "live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
           "globalIndex": 225,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.volver",
-          "chnum": null
+          "chnum": 303
         },
         {
           "name": "Warner TV",
           "ClaroEPGId": "3787",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1800.png",
           "drm_license_uri": "kid:B87wKkFlFkLMNZRsGw-8SQ,k:vlc0LHz25wqoUcDRB00RwA",
           "original_url": "live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
           "globalIndex": 226,
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": "ar.warnerchannelhd",
-          "chnum": null
+          "chnum": 311
         },
         {
           "name": "Adult Swim",
@@ -2808,7 +2808,7 @@
           "category": "📺  CINE & SERIES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 335
         }
       ]
     },
@@ -2819,79 +2819,79 @@
           "name": "Baby TV",
           "ClaroEPGId": "695",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/695/695_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png",
           "drm_license_uri": "kid:tsyNSnlZvMGEE5J_GkmKfA,k:GVuU0v8zV-k9JOKWw5tDJg",
           "original_url": "live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
           "globalIndex": 228,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.babytv",
-          "chnum": null
+          "chnum": 208
         },
         {
           "name": "Cartoon Network",
           "ClaroEPGId": "2845",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png",
           "drm_license_uri": "kid:5360743HrYGR3HHQT4_Dsw,k:tPk5ipJh0R_NYBis_6uU0Q",
           "original_url": "live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
           "globalIndex": 229,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.cartoonnetworkhd",
-          "chnum": null
+          "chnum": 203
         },
         {
           "name": "Cartoonito",
           "ClaroEPGId": "453",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/453/453_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/cartoonito.png",
           "drm_license_uri": "kid:2w6X6WIF1UVHGsmCREzz4w,k:kLi_bRyM-HYfdUcPGC490Q",
           "original_url": "live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
           "globalIndex": 230,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.boomerang",
-          "chnum": null
+          "chnum": 206
         },
         {
           "name": "Discovery Kids",
           "ClaroEPGId": "3531",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/76.png",
           "drm_license_uri": "kid:CiyEatkOtlxpezHhsHKLUw,k:nMaQepX-DEJBpxA_JWUPZA",
           "original_url": "live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
           "globalIndex": 231,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.discoverykidshd",
-          "chnum": null
+          "chnum": 205
         },
         {
           "name": "Disney Channel",
           "ClaroEPGId": "136",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/136/136_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/136.png",
           "drm_license_uri": "kid:E4mB7V91UnIyWTr0ySyQBw,k:DwXHi9fovD6eD3CMFCTzSw",
           "original_url": "live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
           "globalIndex": 232,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.disneychannel",
-          "chnum": null
+          "chnum": 201
         },
         {
           "name": "Disney Junior",
           "ClaroEPGId": "756",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/756/756_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png",
           "drm_license_uri": "kid:YyQpzZljp2-QlRFF2ksi5g,k:vMhSeTzz-FoeCs0FCYU-Rw",
           "original_url": "live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
           "globalIndex": 233,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.disneyjunior",
-          "chnum": null
+          "chnum": 207
         },
         {
           "name": "Dreamworks TV",
@@ -2904,7 +2904,7 @@
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 204
         },
         {
           "name": "Edye TV",
@@ -2949,66 +2949,66 @@
           "name": "Nick Jr",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/816.png",
           "drm_license_uri": "kid:jh-ytZudg8EUZstUsxko4g,k:O_GejYlW2sqR2v-3RvCLsQ",
           "original_url": "live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
           "globalIndex": 238,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 210
         },
         {
           "name": "Nickelodeon",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3952.png",
           "drm_license_uri": "kid:iaa-MqNyJVR1wD2RC-Hq6A,k:REasmHIEVwu-u47lpJRZAw",
           "original_url": "live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
           "globalIndex": 239,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 202
         },
         {
           "name": "Paka Paka",
           "ClaroEPGId": "1492",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1492/1492_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png",
           "drm_license_uri": "kid:6cQhp_IFygjmLr48pA40Mw,k:ZfoZfcL0cnOcHYT8tfiAzw",
           "original_url": "live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
           "globalIndex": 240,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.pakapaka",
-          "chnum": null
+          "chnum": 200
         },
         {
           "name": "Plim Plim",
           "ClaroEPGId": "8218",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8218/8218_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/plimplim.png",
           "drm_license_uri": "kid:WzTsW-mn05Tl9JpepVrE9g,k:PozKb5RaOkyZhK5SjCQHuQ",
           "original_url": "live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
           "globalIndex": 241,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.plimplim",
-          "chnum": null
+          "chnum": 211
         },
         {
           "name": "Tooncast",
           "ClaroEPGId": "880",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/880/880_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/880.png",
           "drm_license_uri": "kid:G58L24fkWcyaAvFqWPseig,k:4RLnHxuZHWHdJnGeLekDtg",
           "original_url": "live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
           "globalIndex": 242,
           "category": "📺  INFANTILES",
           "source_group": "samples",
           "liveref": "ar.tooncast",
-          "chnum": null
+          "chnum": 209
         }
       ]
     },
@@ -3019,157 +3019,157 @@
           "name": "Animal Planet",
           "ClaroEPGId": "4605",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/673.png",
           "drm_license_uri": "kid:vTORzww1aS26yha3YWniEQ,k:DdOSSgewpAUfbbHVfnWnAA",
           "original_url": "live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
           "globalIndex": 243,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.animalplanethd",
-          "chnum": null
+          "chnum": 452
         },
         {
           "name": "Canal (á)",
           "ClaroEPGId": "58",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/58/58_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/canala.png",
           "drm_license_uri": "kid:raUObfpz_wIbZM2g4yZkQQ,k:qOhlEoIedlfQWsu7cDtSaQ",
           "original_url": "live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd",
           "globalIndex": 244,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.canala",
-          "chnum": null
+          "chnum": 456
         },
         {
           "name": "Discovery Channel",
           "ClaroEPGId": "3066",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/17.png",
           "drm_license_uri": "kid:9Vrsd12SzqQeoPgLhhVJWg,k:iSfzJpMcalrzjQzXzXRDOA",
           "original_url": "live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
           "globalIndex": 245,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoverychannelhd",
-          "chnum": null
+          "chnum": 451
         },
         {
           "name": "Discovery H&H",
           "ClaroEPGId": "2218",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2218.png",
           "drm_license_uri": "kid:bivCs8lGTEB69tBVm7Xh6g,k:Q-xeaYtvYKD0HWBJCaJRhg",
           "original_url": "live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
           "globalIndex": 246,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoveryhomeandhealthhd",
-          "chnum": null
+          "chnum": 405
         },
         {
           "name": "Discovery ID",
           "ClaroEPGId": "111",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/111/111_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2266.png",
           "drm_license_uri": "kid:KmCUiBoUhtyKPv5r6fIgFw,k:3bhhOlp0mpPZu8RFWSmN4A",
           "original_url": "live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
           "globalIndex": 247,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoveryid",
-          "chnum": null
+          "chnum": 325
         },
         {
           "name": "Discovery Science",
           "ClaroEPGId": "493",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/493/493_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/493.png",
           "drm_license_uri": "kid:yfzZcJs4BYyiyQuD6BvAOQ,k:-3NuZcKnJImH5Yoqfm1Jpg",
           "original_url": "live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
           "globalIndex": 248,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoveryscience",
-          "chnum": null
+          "chnum": 462
         },
         {
           "name": "Discovery Theater",
           "ClaroEPGId": "1181",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1181.png",
           "drm_license_uri": "kid:524N2V8hh3cKb6n3LXYA9Q,k:vKsw2tVSKPzQqJpTS3tPBA",
           "original_url": "live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
           "globalIndex": 249,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoverytheaterhd",
-          "chnum": null
+          "chnum": 453
         },
         {
           "name": "Discovery TLC",
           "ClaroEPGId": "4909",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3685.png",
           "drm_license_uri": "kid:Jxj9nqNJKkd72RxR00gYXQ,k:l51U5Gfvyse16hjVD3TuCA",
           "original_url": "live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
           "globalIndex": 250,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.tlchd",
-          "chnum": null
+          "chnum": 407
         },
         {
           "name": "Discovery Turbo",
           "ClaroEPGId": "492",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/492/492_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/492.png",
           "drm_license_uri": "kid:D1Xsxkhryun9P1MnH8Fq2A,k:7rffWWn8WLV3Hy87x1Aq1Q",
           "original_url": "live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_wl/DiscoveryTurbo.mpd",
           "globalIndex": 251,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoveryturbo",
-          "chnum": null
+          "chnum": 112
         },
         {
           "name": "Discovery World",
           "ClaroEPGId": "4516",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4516/4516_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1389.png",
           "drm_license_uri": "kid:MeS4q5m1p714EoNHAYJd2Q,k:_p5ujCKw0zuqrolbnQMXqg",
           "original_url": "live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
           "globalIndex": 252,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.discoveryworld",
-          "chnum": null
+          "chnum": 460
         },
         {
           "name": "E-Entertaiment",
           "ClaroEPGId": "3675",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4292.png",
           "drm_license_uri": "kid:GU2W6b2QCbHqzFKeMmBWCg,k:w3pQ1oSM5tPczgwV0ie54A",
           "original_url": "live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd",
           "globalIndex": 253,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.eentertainmenthd",
-          "chnum": null
+          "chnum": 404
         },
         {
           "name": "Film & Arts",
           "ClaroEPGId": "3391",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3391.png",
           "drm_license_uri": "kid:RM7Q-NOYJzVkkN_bJk2aCw,k:rwIjNfq80-LfkWsrU642hQ",
           "original_url": "live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
           "globalIndex": 254,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.filmandartshd",
-          "chnum": null
+          "chnum": 457
         },
         {
           "name": "HGTV",
@@ -3182,33 +3182,33 @@
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 408
         },
         {
           "name": "History",
           "ClaroEPGId": "5201",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1499.png",
           "drm_license_uri": "kid:sQ5I6wyZQAFeKN_nY3tI-g,k:TfJS-V3nCSO3NvP2WYIctw",
           "original_url": "live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
           "globalIndex": 256,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.historychannelhd",
-          "chnum": null
+          "chnum": 454
         },
         {
           "name": "History 2",
           "ClaroEPGId": "2823",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3621.png",
           "drm_license_uri": "kid:bgjqhc2_XT0gidXppTSdjA,k:zNsT1tR3dYlEUqBinJhrZw",
           "original_url": "live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
           "globalIndex": 257,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.history2",
-          "chnum": null
+          "chnum": 458
         },
         {
           "name": "Love Nature",
@@ -3230,14 +3230,14 @@
           "name": "National Geographic",
           "ClaroEPGId": "2710",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2710.png",
           "drm_license_uri": "kid:c3NcF0BGTJnMo_-0UMFYEQ,k:uSQdCDyQL6YV5PeACBrpJg",
           "original_url": "live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
           "globalIndex": 259,
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": "ar.nationalgeographichd",
-          "chnum": null
+          "chnum": 450
         },
         {
           "name": "Sun Channel",
@@ -3250,7 +3250,7 @@
           "category": "📺  CULTURALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 422
         }
       ]
     },
@@ -3356,7 +3356,7 @@
           "category": "📺  NOVELAS",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 565
         },
         {
           "name": "Canela",
@@ -3414,14 +3414,14 @@
           "name": "Pasiones",
           "ClaroEPGId": "2217",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1976.png",
           "drm_license_uri": "kid:3PX4xNW40faKaNvopcjUkA,k:uIj18MHMbgl6Z6VsJeL0kA",
           "original_url": "live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
           "globalIndex": 270,
           "category": "📺  NOVELAS",
           "source_group": "samples",
           "liveref": "ar.pasioneshd",
-          "chnum": null
+          "chnum": 330
         },
         {
           "name": "RCN MÁS+",
@@ -3440,27 +3440,27 @@
           "name": "Telemundo",
           "ClaroEPGId": "2827",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4301.png",
           "drm_license_uri": "kid:jxeASXoxHrXjjqAwhYiMRw,k:Db3ryNUzbJcKyMkE6bzQNA",
           "original_url": "live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
           "globalIndex": 272,
           "category": "📺  NOVELAS",
           "source_group": "samples",
           "liveref": "ar.telemundo",
-          "chnum": null
+          "chnum": 331
         },
         {
           "name": "TLnovelas",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://static.wikia.nocookie.net/logopedia/images/b/b6/TLNovelas_2019_%28Stacked%29.svg/revision/latest/scale-to-width-down/50?cb=20260708234932",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/170.png",
           "drm_license_uri": "kid:Yr97jsdZkE8GdtJLC672WQ,k:FkNVk_kAvZVAcUhqvci9gQ",
           "original_url": "live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
           "globalIndex": 273,
           "category": "📺  NOVELAS",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 333
         },
         {
           "name": "TNT Novelas",
@@ -3473,7 +3473,7 @@
           "category": "📺  NOVELAS",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 332
         },
         {
           "name": "Todo Novelas",
@@ -3510,27 +3510,27 @@
           "name": "El Gourmet",
           "ClaroEPGId": "3244",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/125.png",
           "drm_license_uri": "kid:i95PyndXxsnxWnutpo3yug,k:ibp4WE92EvD8zGLSYENDPg",
           "original_url": "live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
           "globalIndex": 277,
           "category": "📺  COCINA",
           "source_group": "samples",
           "liveref": "ar.elgourmethd",
-          "chnum": null
+          "chnum": 401
         },
         {
           "name": "Food Network",
           "ClaroEPGId": "3450",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3450/3450_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3450.png",
           "drm_license_uri": "kid:lNPvBomIr750eHhn8_UFxQ,k:YmS2OjNUj0YyfOgkEnhBug",
           "original_url": "live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd",
           "globalIndex": 278,
           "category": "📺  COCINA",
           "source_group": "samples",
           "liveref": "ar.foodnetworkhd",
-          "chnum": null
+          "chnum": 403
         },
         {
           "name": "Gusto TV",
@@ -3549,14 +3549,14 @@
           "name": "Lifetime",
           "ClaroEPGId": "2789",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2789/2789_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2788.png",
           "drm_license_uri": "kid:wOLVZQVRUj7pTbXcGooT1A,k:1VXyWzXY8yz576sowkyhug",
           "original_url": "live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
           "globalIndex": 280,
           "category": "📺  COCINA",
           "source_group": "samples",
           "liveref": "ar.lifetime",
-          "chnum": null
+          "chnum": 400
         },
         {
           "name": "Tastemade",
@@ -3580,27 +3580,27 @@
           "name": "Canal Luz",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/canalluz.png",
           "drm_license_uri": "kid:EKjueQott75nBZM70HV9Vw,k:YQq9q-qW0RG7zmvqqkcHgg",
           "original_url": "live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
           "globalIndex": 282,
           "category": "📺  RELIGIOSOS",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 427
         },
         {
           "name": "Canal Orbe 21",
           "ClaroEPGId": "8724",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/orbe21.png",
           "drm_license_uri": "kid:OXLasSV3d5nt8dZISwz-Iw,k:aPMnlYVL4-3WXgAe-omOsg",
           "original_url": "live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
           "globalIndex": 283,
           "category": "📺  RELIGIOSOS",
           "source_group": "samples",
           "liveref": "ar.orbe21",
-          "chnum": null
+          "chnum": 425
         },
         {
           "name": "Enlace",
@@ -3619,14 +3619,14 @@
           "name": "EWTN",
           "ClaroEPGId": "64",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/64/64_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/64.png",
           "drm_license_uri": "kid:XFNaPqg8zmw4qK8EoHYHiQ,k:GhXWEXgKwFE51zIuAQltRA",
           "original_url": "live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
           "globalIndex": 285,
           "category": "📺  RELIGIOSOS",
           "source_group": "samples",
           "liveref": "ar.ewtn",
-          "chnum": null
+          "chnum": 426
         },
         {
           "name": "JTA TV",
@@ -3704,14 +3704,14 @@
           "name": "Allegro",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://www.allegrohd.com/images/logo3.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3154.png",
           "drm_license_uri": "kid:BIKV-CCQv_EoQeW_7cm3Zw,k:-lkVJKO5CjqvYzquKhSr5w",
           "original_url": "live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
           "globalIndex": 291,
           "category": "📺  MUSICALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 503
         },
         {
           "name": "Billboard",
@@ -3735,14 +3735,14 @@
           "name": "CM",
           "ClaroEPGId": "230",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/230/230_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/230.png",
           "drm_license_uri": "kid:6wsluD3-V2hWyjD_Vebf1g,k:MDgLNKTeU7wLPtz58sar4g",
           "original_url": "live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
           "globalIndex": 293,
           "category": "📺  MUSICALES",
           "source_group": "samples",
           "liveref": "ar.canalmusica",
-          "chnum": null
+          "chnum": 507
         },
         {
           "name": "Concert Channel",
@@ -3795,20 +3795,20 @@
           "category": "📺  MUSICALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 605
         },
         {
           "name": "HTV",
           "ClaroEPGId": "115",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/115/115_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/115.png",
           "drm_license_uri": "kid:PSnuemf_BBVsbLVrkMtdDg,k:lROcVCFXQkfO09ChDTu-Eg",
           "original_url": "live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
           "globalIndex": 297,
           "category": "📺  MUSICALES",
           "source_group": "samples",
           "liveref": "ar.htv",
-          "chnum": null
+          "chnum": 505
         },
         {
           "name": "MTV",
@@ -3827,14 +3827,14 @@
           "name": "Quiero Musica",
           "ClaroEPGId": "779",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/779/779_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3281.png",
           "drm_license_uri": "kid:tlD4NCy1ZEJtaDBEEbv-iw,k:kcZZ3x92zMVMzYZVF4JONA",
           "original_url": "live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
           "globalIndex": 299,
           "category": "📺  MUSICALES",
           "source_group": "samples",
           "liveref": "ar.quieromusica",
-          "chnum": null
+          "chnum": 501
         },
         {
           "name": "Beat Box",
@@ -4194,14 +4194,14 @@
           "name": "KZO Entertaiment",
           "ClaroEPGId": "3078",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3078/3078_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3987.png",
           "drm_license_uri": "kid:cck3RWawtVFwg7ySMXWWmg,k:VikpEURa5wTzkGaexdf6pw",
           "original_url": "live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
           "globalIndex": 322,
           "category": "📺️  RADIOS ONLINE",
           "source_group": "samples",
           "liveref": "ar.kzo",
-          "chnum": null
+          "chnum": 30
         },
         {
           "name": "La 100",
@@ -4439,7 +4439,7 @@
           "category": "📺️  RADIOS ONLINE",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 502
         }
       ]
     },
@@ -4450,7 +4450,7 @@
           "name": "🇪🇸 Antena 3",
           "ClaroEPGId": "61",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/61/61_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/61.png",
           "drm_license_uri": "kid:FxF0I7BLrBflKru1x3dI8w,k:Fj5O-hOgdLvVb7rrMXkiEQ",
           "original_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/vmpuqwfici/out/v1/1a5a24e422764fb3934808e830545f8d/cenc.mpd",
           "headers": {
@@ -4466,20 +4466,20 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.antena3hd",
-          "chnum": null
+          "chnum": 555
         },
         {
           "name": "🇪🇸 Hola TV",
           "ClaroEPGId": "2670",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2669.png",
           "drm_license_uri": "kid:TbmZTSV49KX5Dbq4KwMF0w,k:aKSNRVdpDVTugrZ1l5k0kQ",
           "original_url": "live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
           "globalIndex": 342,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.holahd",
-          "chnum": null
+          "chnum": 409
         },
         {
           "name": "🇪🇸 TV Galicia",
@@ -4492,7 +4492,7 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 564
         },
         {
           "name": "🇪🇸 TVE",
@@ -4511,14 +4511,14 @@
           "name": "🇮🇹 RAI",
           "ClaroEPGId": "29",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/29/29_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/29.png",
           "drm_license_uri": "kid:waMXJ3rmm8WvMZjQgI1XBg,k:g9IRsRTSn3P8fIZnD-VdDA",
           "original_url": "live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
           "globalIndex": 345,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.rai",
-          "chnum": null
+          "chnum": 551
         },
         {
           "name": "🇰🇷 Arirang",
@@ -4531,7 +4531,7 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 566
         },
         {
           "name": "🇺🇸 DHE",
@@ -4544,7 +4544,7 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 329
         },
         {
           "name": "🇺🇸 Eurochannel",
@@ -4557,7 +4557,7 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 324
         },
         {
           "name": "🇻🇪 Tele Sur",
@@ -4576,14 +4576,14 @@
           "name": "Al Jazeera",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/ZqF4KTvr/Al-Jazeera.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/751.png",
           "drm_license_uri": "kid:BXszgo6c3E_U3GVvyiozog,k:Z7SxTkbNmAvBiL-G617hAg",
           "original_url": "live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd",
           "globalIndex": 350,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 560
         },
         {
           "name": "Antena 3 Internacional",
@@ -4641,53 +4641,53 @@
           "name": "BBC News",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/NfhTZDt4/BBC_News.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/951.png",
           "drm_license_uri": "kid:_lq8tpzm_m1zUnUxcEYkHA,k:kXVmwWStrLqQ0DZPMYCL2A",
           "original_url": "live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
           "globalIndex": 355,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 558
         },
         {
           "name": "Bloomberg",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/1RNPfcqM/Bloomberg.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/730.png",
           "drm_license_uri": "kid:XmJ-oDMdKZV8T0GIpFkazQ,k:4I_YP_MXVLZsqZ3Co3rzmA",
           "original_url": "live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd",
           "globalIndex": 356,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 552
         },
         {
           "name": "CNN EN ESPAÑOL",
           "ClaroEPGId": "62",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/62/62_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/62.png",
           "drm_license_uri": "kid:xj9lUM-h3YnmB-bRDgzY4Q,k:MOJswy0JC9hq0eNQ_tXOaA",
           "original_url": "live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
           "globalIndex": 357,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.cnnenespanol",
-          "chnum": null
+          "chnum": 23
         },
         {
           "name": "CNN International",
           "ClaroEPGId": "13",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/13/13_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/13.png",
           "drm_license_uri": "kid:ze-fKCM-2D2O_J1VgjD-TA,k:2Q5yeK9I_xShkTA22RJqlA",
           "original_url": "live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd",
           "globalIndex": 358,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.cnnint",
-          "chnum": null
+          "chnum": 557
         },
         {
           "name": "DNews",
@@ -4713,7 +4713,7 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.dw",
-          "chnum": null
+          "chnum": 562
         },
         {
           "name": "EL PAIS",
@@ -4745,27 +4745,27 @@
           "name": "FOX News",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://i.postimg.cc/Gh5kqR2K/FOX_News.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/578.png",
           "drm_license_uri": "kid:SI6h3vsIa74ZJ8uhadp9Xw,k:zjW1Qnbq3e17jUMBs_nMZg",
           "original_url": "live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd",
           "globalIndex": 363,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 559
         },
         {
           "name": "France 24 Español",
           "ClaroEPGId": "4229",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4124.png",
           "drm_license_uri": "kid:kuLyyqI6e4g-NDsmyfkO0Q,k:_xRQCPXFPudcbTSYzXeKzA",
           "original_url": "live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
           "globalIndex": 364,
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": "ar.france24hd",
-          "chnum": null
+          "chnum": 575
         },
         {
           "name": "France 24 Francés",
@@ -4817,7 +4817,7 @@
           "category": "📺  INTERNACIONALES",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 554
         }
       ]
     },
@@ -4828,53 +4828,53 @@
           "name": "ESPN",
           "ClaroEPGId": "229",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/229/229_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3224.png",
           "drm_license_uri": "kid:6V_oS59z5mVf3nEdXIlgVg,k:JnoOUU3rmEgDvsQ8xgfEyw",
           "original_url": "live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
           "globalIndex": 369,
           "category": "DEPORTES ESPN",
           "source_group": "samples",
           "liveref": "ar.espn",
-          "chnum": null
+          "chnum": 103
         },
         {
           "name": "ESPN 2",
           "ClaroEPGId": "18",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/18/18_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3189.png",
           "drm_license_uri": "kid:Py4Sxy4aARvgVp-9nKSGqw,k:EnPeq7PAQ1YP4mTdKxaQ8Q",
           "original_url": "live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
           "globalIndex": 370,
           "category": "DEPORTES ESPN",
           "source_group": "samples",
           "liveref": "ar.espn2",
-          "chnum": null
+          "chnum": 102
         },
         {
           "name": "ESPN 3",
           "ClaroEPGId": "4971",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2020.png",
           "drm_license_uri": "kid:OzAsjtN4FpYgi8NG2Tl1VA,k:7jW-R1FdeB9Wtyt4x-nHtQ",
           "original_url": "live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
           "globalIndex": 371,
           "category": "DEPORTES ESPN",
           "source_group": "samples",
           "liveref": "ar.espn3",
-          "chnum": null
+          "chnum": 104
         },
         {
           "name": "ESPN 4",
           "ClaroEPGId": "3224",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/espn4.png",
           "drm_license_uri": "kid:0CmB5vrqzvSckP2wU6tkHQ,k:ZF4TYk6TOEGx6jXNobVb0Q",
           "original_url": "live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
           "globalIndex": 372,
           "category": "DEPORTES ESPN",
           "source_group": "samples",
           "liveref": "ar.espnextra",
-          "chnum": null
+          "chnum": 105
         },
         {
           "name": "ESPN 5",
@@ -5369,7 +5369,7 @@
           "name": "NBA ",
           "ClaroEPGId": null,
           "type": "CLEARKEY",
-          "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWiWd8vYFVFueySzA9YNrFBd3CvrtdEBYw&s",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/753.png",
           "drm_license_uri": "kid:Gp3tUrtrSpXOrwIl9uyVDQ,k:lt388nilED86RTXvyzytog",
           "original_url": "live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
           "headers": {
@@ -5381,7 +5381,7 @@
           "category": "⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",
           "source_group": "samples",
           "liveref": null,
-          "chnum": null
+          "chnum": 111
         },
         {
           "name": "NBA US",
@@ -5914,27 +5914,27 @@
           "name": "Playboy TV",
           "ClaroEPGId": "3803",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/114.png",
           "drm_license_uri": "kid:ag6-35uEPsqmFe7uUI4i7w,k:JTAdHfz_9EGXPmeqxOsNcg",
           "original_url": "live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
           "globalIndex": 443,
           "category": "ADULTOS",
           "source_group": "samples",
           "liveref": "ar.playboyhd",
-          "chnum": null
+          "chnum": 800
         },
         {
           "name": "Venus",
           "ClaroEPGId": "3294",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png",
           "drm_license_uri": "kid:JlCXsa45jCRvXL70HTtHQw,k:FGi_JHXu8gBGDUXrjCB4jw",
           "original_url": "live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
           "globalIndex": 444,
           "category": "ADULTOS",
           "source_group": "samples",
           "liveref": "ar.venus",
-          "chnum": null
+          "chnum": 801
         },
         {
           "name": "Hustler Mature",
@@ -5953,14 +5953,14 @@
           "name": "Sextreme",
           "ClaroEPGId": "3293",
           "type": "CLEARKEY",
-          "icono": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293_t-290x163.png",
+          "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/628.png",
           "drm_license_uri": "kid:M3eLQZ5z36jNwxlf8b_CyA,k:ESPSikuVhi-twYKJV-SOkw",
           "original_url": "live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
           "globalIndex": 446,
           "category": "ADULTOS",
           "source_group": "samples",
           "liveref": "ar.sextreme",
-          "chnum": null
+          "chnum": 803
         },
         {
           "name": "Sexy Hot",
